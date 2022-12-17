@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <link rel="alternate" href="http://maxence.larri.eu/activities.html" hreflang="en" />
+  <link rel="alternate" href="http://maxence.larri.eu/FR/activities.html" hreflang="fr" />
+  <link href="https://fonts.googleapis.com/css?family=Karla|Montserrat" rel="stylesheet">
+ 	<link rel="stylesheet" href="style.css" />
+	<meta name="keywords" content="Larrieu, Maxence, Larrieu Maxence, musicologie, computer music, analyse musicale,
+  informatique musicale, scientific communication, open access, open science">
+	<meta name="description" content="Maxence Larrieu website, site web personnel Maxence Larrieu">
+	<meta name="author" content="Maxence Larrieu" />
+  <meta name="identifier-url" content="maxence.larri.eu"/>
+	<title>Maxence Larrieu</title>
+
+<script>
+function loadXMLDoc(filename){
+  if (window.ActiveXObject){
+    xhttp = new ActiveXObject("Msxml2.XMLHTTP");
+  }
+  else {
+    xhttp = new XMLHttpRequest();
+  }
+  xhttp.open("GET", filename, false);
+  try {xhttp.responseType = "msxml-document"} catch(err) {} // Helping IE11
+  xhttp.send("");
+  return xhttp.responseXML;
+}
+
+function displayResult(xslFileName){
+  xml = loadXMLDoc("activities.xml");
+  xsl = loadXMLDoc(xslFileName);
+  // code for IE
+  if (window.ActiveXObject || xhttp.responseType == "msxml-document") {
+    ex = xml.transformNode(xsl);
+    document.getElementById("showData").innerHTML = ex;
+    }
+  // code for Chrome, Firefox, Opera, etc.
+  else if (document.implementation && document.implementation.createDocument) {
+    xsltProcessor = new XSLTProcessor();
+    xsltProcessor.importStylesheet(xsl);
+    var temp = document.getElementById("showData") ;
+    while(temp.firstChild){ // delete all ancient data
+      temp.removeChild(temp.firstChild);
+      resultDocument = xsltProcessor.transformToFragment(xml, document);
+    }
+    document.getElementById("showData").appendChild(resultDocument);
+  }
+}
+  </script>
+</head>
+<body onload="displayResult('allActivities.xsl')">
+
+  <h1>Maxence Larrieu</h1>
+  <hr />
+  <div id="menu">
+    <a href="index.html">About</a>
+    <a class="active" href="activities.html">Activities</a>
+    <a href="contact.html">Contact</a>
+  </div>
+
+   <div id="corps">
+     <p class="presentation">
+       The activities I list here can be either  <button class="tagAction button" onclick="displayResult('output.xsl')">outputs</button> like a scientific paper, or <button class="tagAction button" onclick="displayResult('input.xsl')">inputs</button> like a training. Furthermore it can cover two areas
+       <button class="tagDomain button" onclick="displayResult('musicology.xsl')">musicology</button> and <button class="tagDomain button"  onclick="displayResult('scholarlyCom.xsl')">scholarly communication</button>.
+      </p>
+
+      <div id="showData"> </div>
+  </div>
+
+
+</body>
+</html>

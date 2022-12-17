@@ -1,0 +1,903 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+activities
+  item
+    date
+    action
+    domain
+    docType
+    titre
+    type
+    nom
+    structure
+    personnes
+    lien
+
+  <item>
+    <date> 2019 01</date>
+    <action>output</action>
+    <domain>musicology</domain>
+    <docType>article</docType>
+    <titre> A consideration of the code of computer music as writing, and some reflections on the analytical theories (in press)</titre>
+    <nom>Organised Sound</nom>
+    <lien url="https://hal.archives-ouvertes.fr/hal-02386818"></lien>
+  </item>
+
+
+-->
+<activities>
+
+    <item>
+        <date>2022 10</date>
+        <action>output</action>
+        <domain>scholarlyCom</domain>
+        <titre>French Rights Retention Strategy Monitor</titre>
+        <structure>Web application</structure>
+        <lien url="https://ml4rrieu.github.io/rrs" />
+    </item>
+
+    <item>
+        <date>2022 10</date>
+        <action>output</action>
+        <domain>scholarlyCom</domain>
+        <titre>Différences disciplinaires en contexte de Science Ouverte. Étude avec les publications de HAL</titre>
+        <nom>Conférence interne</nom>
+        <structure>CasuHAL</structure>
+        <lien url="https://github.com/ml4rrieu/disciplines-differencies-hal" />
+    </item>
+
+    <item>
+        <date>2022 10</date>
+        <action>output</action>
+        <domain>scholarlyCom</domain>
+        <titre>Python pour la science ouverte #py_so</titre>
+        <nom>Atelier pour les professionnels travaillant pour la Science ouverte</nom>
+        <structure>URFIST Occitanie</structure>
+        <lien url="https://github.com/ml4rrieu/py_so" />
+    </item>
+
+
+   <item>
+        <date>2022 09</date>
+        <action>output</action>
+        <domain>scholarlyCom</domain>
+        <titre>Circulation des savoirs et mesure</titre>
+        <nom>Modération</nom>
+        <structure>Journées Médici</structure>
+        <lien url="https://medici2022.sciencesconf.org/"></lien>
+  </item>
+
+    <item>
+        <date>2022 09</date>
+        <action>output</action>
+        <domain>scholarlyCom</domain>
+        <titre>Bibliométrie et science ouverte</titre>
+        <nom>Atelier 2*3h</nom>
+        <structure>Journées Médici</structure>
+        <lien url="https://speakerdeck.com/mlarrieu/bibliometrie-and-science-ouverte" />
+    </item>
+
+    <item>
+        <date>2022 07</date>
+        <action>output</action>
+        <domain>scholarlyCom</domain>
+        <titre>How research libraries can contribute to reform the research evaluation system</titre>
+        <nom>Libraries in the Research and Innovation Landscape (LIBER 2022), Ondense, Danemark</nom>
+        <structure>LIBER</structure>
+        <lien url="https://zenodo.org/record/6812306" />
+    </item>
+    
+    <item>
+        <date>2022 06</date>
+        <action>output</action>
+        <domain>scholarlyCom</domain>
+        <titre>Différences disciplinaires en contexte de Science Ouverte. Étude avec les publications de HAL</titre>
+        <nom>Document Numérique et Société, Communication scientifique et science ouverte : opportunités, tensions et paradoxes, Liège, Belgique</nom>
+        <personnes>Joachim Schöpfel</personnes>
+        <lien url="https://hal.archives-ouvertes.fr/hal-03760316" />
+    </item>
+
+    <item>
+        <date>2022 06</date>
+        <action>output</action>
+        <domain>scholarlyCom</domain>
+        <titre>Baromètre de la Science ouverte, un outil technico-politique</titre>
+        <nom>Club utilisateurs du Baromètre de la Science Ouverte</nom>
+        <structure>MESR</structure>
+        <lien url="https://github.com/ml4rrieu/bso_univ_paris" />
+    </item>
+
+    <item>
+        <date>2022 06</date>
+        <action>output</action>
+        <domain>scholarlyCom</domain>
+        <titre>Exploiter l'API de HAL avec Python et les notebooks Jupyter</titre>
+        <type>conférence</type>
+        <nom>Journées CasuHAL</nom>
+        <structure>CasuHAL</structure>
+        <lien url="https://github.com/ml4rrieu/py_so" />
+    </item>
+
+ 
+    <item>
+        <date>2022 05</date>
+        <action>output</action>
+        <domain>scholarlyCom</domain>
+        <titre>Plateforme éditoriale Université Paris Cité (poster)</titre>
+        <type>conférence</type>
+        <nom>Journées d'échanges sur les revues en SHS</nom>
+        <structure>Repères - MISHA</structure>
+    </item>
+
+
+  <item>
+    <date>2022 04</date>
+    <action>input</action>
+    <domain>scholarlyCom</domain>
+    <type>SPOC</type>
+    <nom>QUERO (Qualité Editoriale, Référencement et Outils)</nom>
+    <structure>GIS Réseau Urfist - Repères</structure>
+    <lien url="https://callisto-formation.fr/?theme=fordson_c03" />
+  </item>
+
+    
+    <item>
+        <date>2022 04</date>
+        <action>output</action>
+        <domain>scholarlyCom</domain>
+        <titre>Quel rôle pour les structures publiques dans l’accompagnement des revues vers l’édition ouverte ?</titre>
+        <type>conférence</type>
+        <nom>Plateformes éditoriales de revues scientifiques en accès ouvert Journée d’étude</nom>
+        <structure>Université de bordeaux</structure>
+        <lien url="https://web.archive.org/web/20220316201741/http://bibliotheques.u-bordeaux.fr/Actualites/Lancement-d-Open-U-Journals-2024" />
+    </item>
+
+    <item>
+        <date>2022 03</date>
+        <action>output</action>
+        <domain>scholarlyCom</domain>
+        <titre>Bibliométrie et science ouverte</titre>
+        <nom>Formation pour les doctorants, professionnels de l'IST et bibliothécaires</nom>
+        <structure>URFIST Rennes</structure>
+        <lien url="https://speakerdeck.com/mlarrieu/bibliometrie-and-science-ouverte" />
+    </item>
+
+    <item>
+        <date>2022 02</date>
+        <action>output</action>
+        <domain>scholarlyCom</domain>
+        <titre>Bibliométrie et science ouverte</titre>
+        <nom>Formation des conservateurs d'État</nom>
+        <structure>ENSSIB</structure>
+        <lien url="https://speakerdeck.com/mlarrieu/bibliometrie-and-science-ouverte" />
+    </item>
+
+
+    <item>
+        <date>2022 01</date>
+        <action>output</action>
+        <domain>scholarlyCom</domain>
+        <titre>Python pour la science ouverte #py_so</titre>
+        <nom>Atelier pour les professionnels travaillant pour la Science ouverte</nom>
+        <structure>URFIST Occitanie</structure>
+        <personnes>Émilien Schultz</personnes>
+        <lien url="https://github.com/ml4rrieu/py_so" />
+    </item>
+
+
+    <item>
+        <date>2021 12</date>
+        <action>output</action>
+        <domain>scholarlyCom</domain>
+        <titre>Developing an Open Science Publishing Strategy</titre>
+        <nom>Open Science Training for PhD Students</nom>
+        <structure>Université de Paris</structure>
+        <personnes>Christophe Pion</personnes>
+        <lien url="https://speakerdeck.com/mlarrieu/developing-an-open-science-publishing-strategy" />
+    </item>
+
+
+    <item>
+    <date>2021 12</date>
+    <action>output</action>
+    <domain>scholarlyCom</domain>
+    <titre>Baromètre Science Ouverte Université de Paris : lumière sur les SHS</titre>
+    <nom>DataSHS : Des métadonnées ouvertes pour une bibliométrie au service de la recherche</nom>
+    <structure>Université de Paris</structure>
+    <lien url="https://speakerdeck.com/mlarrieu/barometre-science-ouverte-universite-de-paris-lumiere-sur-les-shs" />
+    </item>
+
+   <item>
+    <date>2021 11</date>
+    <action>output</action>
+    <domain>musicology</domain>
+    <titre>The Analysis of Computer Music Works with the Help of Code: Six specific features of the code to consider</titre>
+    <nom>Electroacoustic Music Conference</nom>
+    <structure>De Montfort University</structure>
+    <lien url="https://hal.archives-ouvertes.fr/hal-03774683"/> 
+  </item>
+
+   <item>
+    <date>2021 11</date>
+    <action>output</action>
+    <domain>scholarlyCom</domain>
+    <titre>Vues sur la bibliométrie</titre>
+    <nom>Formation pour les doctorants, professionnels de l'IST et bibliothécaires</nom>
+    <structure>URFIST Occitanie</structure>
+    <lien url="https://speakerdeck.com/mlarrieu/vues-sur-la-bibliometrie" />
+  </item>
+
+  <item>
+    <date>2021 10</date>
+    <action>output</action>
+    <domain>musicology</domain>
+    <titre>Archiver et Ouvrir le code de la Computer Music</titre>
+    <nom>Collaborative preservation for music with electronics</nom>
+    <structure>MSH Paris-Nord </structure>
+    <lien url="https://ml4rrieu.github.io/slides/202109_antony.html#/" />
+  </item>
+
+   <item>
+    <date>2021 09</date>
+    <action>output</action>
+    <domain>scholarlyCom</domain>
+    <titre>Ouvrir l’accès aux dernières publications de son établissement avec HAL </titre>
+    <nom>Bulletin des bibliothèques de France</nom>
+    <structure>ENSSIB</structure>
+    <lien url="https://hal.archives-ouvertes.fr/hal-03339754"></lien>
+  </item>
+
+  <item>
+    <date>2021 08</date>
+    <action>output</action>
+    <domain>musicology</domain>
+    <titre>An Analysis of “nyx” (2017), a Computer Music Work by Kerry Hagan</titre>
+    <nom>Computer Music Journal</nom>
+    <structure>MIT Press</structure>
+    <lien url="https://hal.archives-ouvertes.fr/hal-03309248"></lien>
+  </item>
+
+  <item>
+    <date>2021 07</date>
+    <action>output</action>
+    <domain>musicology</domain>
+    <titre>Éléments théoriques pour saisir le code de la computer music en analyse musicale</titre>
+    <nom>Journée d'Informatique Musicale</nom>
+    <structure>AFIM</structure>
+    <lien url="https://hal.archives-ouvertes.fr/hal-03289642" />
+  </item>
+
+  <item>
+    <date>2021 06</date>
+    <action>output</action>
+    <domain>scholarlyCom</domain>
+    <titre>Science Ouverte et suivi des publications</titre>
+    <nom>Journée d'étude sur le suivi des publications</nom>
+    <structure>URFIST</structure>
+    <lien url="https://speakerdeck.com/mlarrieu/science-ouverte-et-suivi-des-publications-exemple-de-realisation-a-luvsq-hal-plus-scopus-plus-unpaywall" />
+  </item>
+
+   <item>
+    <date>2021 02</date>
+    <action>output</action>
+    <domain>scholarlyCom</domain>
+    <titre>Vues sur la bibliométrie</titre>
+    <nom>Formation des conservateurs d'État</nom>
+    <structure>ENSSIB</structure>
+    <lien url="https://speakerdeck.com/mlarrieu/vues-sur-la-bibliometrie" />
+  </item>
+
+   <item>
+    <date>2021 01</date>
+    <action>output</action>
+    <domain>scholarlyCom</domain>
+    <titre>Interview de Catherine Cardon, la doyenne de HAL</titre>
+    <structure>Casuhal</structure>
+    <lien url="https://web.archive.org/web/20210316151254/https://www.casuhal.org/2021/01/25/catherine-cardon-interview-de-la-doyenne-de-hal/"></lien>
+  </item>
+
+  <item>
+    <date>2020 12</date>
+    <action>output</action>
+    <domain>musicology</domain>
+    <titre>Le code de la « computer music », quelles utilisations en analyse musicale ? Contextualisation et exemple avec l’Interactive aural analysis</titre>
+    <nom>Revue Francophone d'Informatique Musicale</nom>
+    <structure>AFIM</structure>
+    <lien url="https://hal.archives-ouvertes.fr/hal-03092714" />
+  </item>
+
+   <item>
+    <date>2020 12</date>
+    <action>output</action>
+    <domain>scholarlyCom</domain>
+    <titre>Retour sur les enquêtes au sujet des données de la recherche</titre>
+    <nom>Modération</nom>
+    <structure>Couperin, Groupe de travail Science ouverte, Données de la recherche</structure>
+    <lien url="https://visiodata2.sciencesconf.org/"></lien>
+  </item>
+
+  <item>
+    <date>2020 10</date>
+    <action>output</action>
+    <domain>musicology</domain>
+    <titre>nyx de Kerry Hagan, le Chaos comme source d'inspiration</titre>
+    <type>conférence</type>
+    <nom>Journées d'Informatique Musicale</nom>
+    <structure>Université de Strasbourg </structure>
+    <lien url="https://hal.archives-ouvertes.fr/hal-02986013" />
+    <presentation url="http://maxence.larri.eu/stable/2020JIM/presentation.html" />
+  </item>
+
+  <item>
+    <date>2020 10</date>
+    <action>output</action>
+    <domain>scholarlyCom</domain>
+    <titre>Participez à l'accès ouvert !</titre>
+    <nom>Argumentaire réalisé dans le contexte de la COVID-19 et de l'open access week</nom>
+    <structure>UVSQ</structure>
+    <lien url="http://maxence.larrieu.free.fr/stable/202010_larrieu_com_oa.pdf"></lien>
+  </item>
+
+  <item>
+    <date>2020 09</date>
+    <action>output</action>
+    <domain>scholarlyCom</domain>
+    <titre>Piloter la science ouverte dans son établissement</titre>
+    <nom>Formations continues</nom>
+    <structure>ENSSIB</structure>
+    <lien url="https://speakerdeck.com/mlarrieu/202009-larrieu-enssib-pol-so"></lien>
+  </item>
+
+  <item>
+    <date>2020 09</date>
+    <action>input</action>
+    <domain>scholarlyCom</domain>
+    <type>formation</type>
+    <nom>Invitation aux données de la recherche</nom>
+    <structure>URFIST Paris</structure>
+    <personnes>Justine Ancelin-Fabre</personnes>
+  </item>
+
+  <item>
+    <date>2020 07</date>
+    <action>input</action>
+    <domain>scholarlyCom</domain>
+    <type>MOOC</type>
+    <nom>Recherche reproductible : principes méthodologiques pour une science transparente</nom>
+    <structure>INRIA</structure>
+    <personnes>Christophe Pouzat, Arnaud Legrand, Konrad Hinsen</personnes>
+  </item>
+
+
+  <item>
+    <date>2020 06</date>
+    <action>input</action>
+    <domain>scholarlyCom</domain>
+    <type>MOOC</type>
+    <nom>Python 3 : des fondamentaux aux concepts avancés du langage</nom>
+    <structure>INRIA, UCA</structure>
+    <personnes>Arnaud Legout, Thierry Parmentelat</personnes>
+  </item>
+
+  <item>
+    <date>2020 04</date>
+    <action>input</action>
+    <domain>scholarlyCom</domain>
+    <type>MOOC</type>
+    <nom>Scopus Certification</nom>
+    <structure>Elsevier</structure>
+  </item>
+
+  <item>
+    <date>2020 02</date>
+    <action>output</action>
+    <domain>scholarlyCom</domain>
+    <!-- <docType>slides</docType> -->
+    <titre>La Bibliométrie à l’heure de la Science Ouverte</titre>
+    <nom>Formation des conservateurs d'État</nom>
+    <structure>ENSSIB</structure>
+  </item>
+
+  <item>
+    <date>2019 12</date>
+    <action>output</action>
+    <domain>scholarlyCom</domain>
+    <titre>Introduction à la bibliométrie</titre>
+    <type>formation doctorale</type>
+    <structure>UVSQ</structure>
+    <lien url="http://maxence.larri.eu/stable/2019-bilbiometrie.html"></lien>
+  </item>
+
+  <item>
+    <date>2019 12</date>
+    <action>input</action>
+    <domain>scholarlyCom</domain>
+    <type>formation</type>
+    <nom>FaiR ou Fair-RR? Réutilisation vs Recherche Reproductible?</nom>
+    <structure>CNRS Dialogu'IST</structure>
+    <personnes>Fabien Borget, Sabrina Granger, Daniel Jacob</personnes>
+  </item>
+
+  <item>
+    <date>2019 11</date>
+    <action>input</action>
+    <domain>scholarlyCom</domain>
+    <type>formation</type>
+    <nom>Médiatiser la bibliométrie auprès des chercheurs</nom>
+    <structure>URFIST</structure>
+    <personnes>Solenn Bihan</personnes>
+  </item>
+
+	<item>
+    <date> 2019 11</date>
+    <action>output</action>
+    <domain>musicology</domain>
+    <titre> A Consideration of the Code of Computer Music as Writing, and Some Thinking on Analytical Theories</titre>
+    <nom>Organised Sound</nom>
+    <structure>Cambridge University Press</structure>
+    <lien url="https://hal.archives-ouvertes.fr/hal-02386818"></lien>
+  </item>
+  
+  <item>
+    <date>2019 09</date>
+    <action>input</action>
+    <domain>scholarlyCom</domain>
+    <type>MOOC</type>
+    <nom>Python specialization ~150 h</nom>
+    <structure>University of Michigan via Coursera</structure>
+    <personnes>Charles Severance (Dr. Chuck)</personnes>
+  </item>
+
+<item>
+    <date>2019 08</date>
+    <action>output</action>
+    <domain>scholarlyCom</domain>
+    <titre>Retour sur les 3e journées CasuHal 2019</titre>
+    <nom>Bulletin des bibliothèques de France (BBF)</nom>
+    <structure>ENSSIB.</structure>
+    <lien url="https://hal.archives-ouvertes.fr/hal-02390764"> </lien>
+  </item>
+
+  <item>
+    <date>2019 07</date>
+    <action>input</action>
+    <domain>scholarlyCom</domain>
+    <type>conférence</type>
+    <nom>Ranking Best Practices Workshop</nom>
+    <structure>Université Paris Saclay</structure>
+  </item>
+
+  <item>
+    <date>2019 03</date>
+    <action>output</action>
+    <domain>scholarlyCom</domain>
+    <titre>Open Access and Scholarly Communication</titre>
+    <nom>Seminar</nom>
+    <structure>University of Limerick</structure>
+  </item>
+
+  <item>
+    <date>2019 02</date>
+    <action>output</action>
+    <domain>musicology</domain>
+    <titre>Computer music and Analysis. Introduction and specific features of the code</titre>
+    <nom>Seminar</nom>
+    <structure>University of Limerick</structure>
+  </item>
+
+  <item>
+    <date>2019 01</date>
+    <action>output</action>
+    <domain>musicology</domain>
+    <titre>Les partitions virtuelles de Philippe Manoury, illustration avec le module Chapo de Jupiter (1987)</titre>
+    <nom>Journées d'Informatique Musicale</nom>
+    <structure>Université de Bordeaux. <b>Prix jeune chercheur AFIM 2019</b></structure>
+    <lien url="https://hal.archives-ouvertes.fr/hal-02135597"></lien>  
+  </item>
+
+  <item>
+    <date> 2018 12</date>
+    <action>output</action>
+    <domain>scholarlyCom</domain>
+    <titre>Évaluer la Science Ouverte, les principes de la déclaration DORA</titre>
+    <nom>Journées Nationales de la Science Ouverte</nom>
+    <structure>Comité pour la Science Ouverte </structure>
+    <lien url="https://hal.archives-ouvertes.fr/hal-01938552"></lien>  
+  </item>
+
+  <item>
+    <date>2018 12</date>
+    <action>input</action>
+    <domain>scholarlyCom</domain>
+    <type>formation</type>
+    <nom>Manager</nom>
+    <structure>SIC Formation</structure>
+    <personnes>Émilie Labarthe</personnes>
+  </item>
+
+  <item>
+    <date>2018 11</date>
+    <action>output</action>
+    <domain>scholarlyCom</domain>
+    <titre>Quelles fonctionnalitées pour valoriser une archive ouverte ? </titre>
+    <nom>Formation "Promouvoir et valoriser l'open access"</nom>
+    <structure>ENSSIB</structure>
+    <lien url="https://speakerdeck.com/mlarrieu/quelles-fonctionnalitees-pour-valoriser-une-archive-ouverte"></lien>
+  </item>
+
+ 
+  <item>
+    <date>2018 11</date>
+    <action>input</action>
+    <domain>musicology</domain>
+    <type>formation</type>
+    <nom>English expert level - TOEIC</nom>
+    <structure>Université Angers</structure>
+    <personnes>Isabelle Menard</personnes>
+  </item>
+
+  <item>
+    <date>2018 11</date>
+    <action>input</action>
+    <domain>scholarlyCom</domain>
+    <type>formation</type>
+    <nom>Déléguer et responsabiliser</nom>
+    <structure>SIC Formation</structure>
+    <personnes>Marie Line LE BONNIEC</personnes>
+  </item>
+
+  <item>
+    <date>2018 10</date>
+    <action>output</action>
+    <domain>scholarlyCom</domain>
+    <titre>Open Access et implication des chercheurs </titre>
+    <nom>Modération, journée d'étude</nom>
+    <structure>Université d'Angers</structure>
+    <lien url="https://oaua2018.sciencesconf.org/"></lien>
+  </item>
+
+  <item>
+    <date>2018 06</date>
+    <action>output</action>
+    <domain>scholarlyCom</domain>
+    <titre>Éclairer l'Open Acess</titre>
+    <nom>Argumentaire réalisée pour le site web</nom>
+    <structure>Université d'Angers</structure>
+    <lien url="http://www.univ-angers.fr/fr/recherche/pour-une-science-ouverte/open-access-et-open-data.html"></lien>
+  </item>
+
+  <item>
+    <date> 2018 06</date>
+    <action>output</action>
+    <domain>scholarlyCom</domain>
+    <titre> l'Archive Ouverte Okina </titre>
+    <nom>intervention donnée dans le cadre du "Forum des archives ouvertes"</nom>
+    <structure>SciencePo </structure>
+    <lien url="http://okina.univ-angers.fr/publications/ua17044"></lien>
+  </item>
+
+  <item>
+    <date>2018 05</date>
+    <action>input</action>
+    <domain>scholarlyCom</domain>
+    <type>conférence</type>
+    <nom>Journée CasuHAL </nom>
+    <structure>MSH de Dijon </structure>
+    <personnes>Serge Bauin, Lionel Morel, Frédérique Helein ... </personnes>
+  </item>
+
+  <item>
+    <date>2018 05</date>
+    <action>output</action>
+    <domain>musicology</domain>
+    <titre>Outils informatiques et analyse musicale: représenter le routing de Jupiter</titre>
+    <nom>Journées d'Informatique Musicale</nom>
+    <structure>Université de Picardie </structure>
+    <lien url="http://hal.archives-ouvertes.fr/hal-01791378" />
+    <presentation url="http://maxence.larri.eu/stable/2018-Larrieu-JIM.html" />
+  </item>
+
+  <item>
+    <date>2018 05</date>
+    <action>input</action>
+    <domain>scholarlyCom</domain>
+    <type>formation</type>
+    <nom>Le paysage de l'Open Access</nom>
+    <structure>UFRIST Rennes</structure>
+    <personnes>Hans Dillaerts</personnes>
+  </item>
+
+  <item>
+    <date>2018 05</date>
+    <action>input</action>
+    <domain>scholarlyCom</domain>
+    <type>formation</type>
+    <nom>J.e-cours : Panorama et catalogage des identifiants de personnes et structures</nom>
+    <structure>Abes</structure>
+    <personnes>François Mistral</personnes>
+  </item>
+
+  <item>
+    <date>2018 01</date>
+    <action>input</action>
+    <domain>scholarlyCom</domain>
+    <type>Conférence</type>
+    <nom>Journées Science Ouverte 2018 : 100% Open Access : initiatives pour une transition réussie</nom>
+    <structure>Couperin</structure>
+    <personnes>V Proudman, A Beretz, JP Finance, JL Roch, K Becking, R Schimmer</personnes>
+  </item>
+
+  <item>
+    <date>2018 01</date>
+    <action>output</action>
+    <domain>musicology</domain>
+    <titre>Analyse des musiques d'informatique, vers une intégration de l'artefact : propositions théorique et application sur Jupiter(1987) de Philiippe Manoury</titre>
+    <nom>Thèse de doctorat (PhD)</nom>
+    <structure>Université Paris-Est</structure>
+    <lien url="http://hal.archives-ouvertes.fr/tel-01757277"/>
+    <presentation url="http://maxence.larri.eu/stable/2018-Larrieu-PhD.html"/>
+  </item>
+
+  <item>
+    <date>2017 12</date>
+    <action>input</action>
+    <domain>scholarlyCom</domain>
+    <type>formation</type>
+    <nom>Twitter comme outil académique</nom>
+    <structure>UFRIST Paris</structure>
+    <personnes>Aline Bouchard</personnes>
+  </item>
+  <item>
+
+    <date>2017 11</date>
+    <action>input</action>
+    <domain>scholarlyCom</domain>
+    <type>formation</type>
+    <nom>séminaire doctoral : approches textométriques</nom>
+    <structure>Univ. Paris-Est</structure>
+    <personnes>Jean-Marc Leblanc</personnes>
+  </item>
+
+  <item>
+    <date>2017 10</date>
+    <action>input</action>
+    <domain>scholarlyCom</domain>
+    <type>Conférence</type>
+    <nom>Open Access Week</nom>
+    <structure>ENS Paris</structure>
+    <personnes>Lionel Maurel, Marie Farge, Frédéric Hélein, Claude Didry</personnes>
+  </item>
+
+  <item>
+    <date>2017 10</date>
+    <action>output</action>
+    <domain>scholarlyCom</domain>
+    <titre>Pourquoi publier en Open Access ?</titre>
+    <nom>intervention dans le cadre de l'Open Access Week</nom>
+    <structure>UPEM</structure>
+    <lien url="https://speakerdeck.com/mlarrieu/pourquoi-publier-en-open-access"/>
+  </item>
+
+  <item>
+    <date>2017 10</date>
+    <action>input</action>
+    <domain>scholarlyCom</domain>
+    <type>formation</type>
+    <nom>Administrer un portail HAL</nom>
+    <structure>CCSD</structure>
+    <personnes>Bénédicte Kuntziger </personnes>
+  </item>
+
+  <item>
+    <date>2017 06</date>
+    <action>input</action>
+    <domain>scholarlyCom</domain>
+    <type>formation</type>
+    <nom>La publication scientifique aujourd'hui en sciences humaines et sociales</nom>
+    <structure>UFRIST</structure>
+    <personnes>Annaïg MAHE</personnes>
+  </item>
+
+  <item>
+    <date>2017 06</date>
+    <action>output</action>
+    <domain>scholarlyCom</domain>
+    <titre> Rapport bibliométrique 2017</titre>
+    <docType>rapport interne</docType>
+    <structure>UPEM</structure>
+  </item>
+
+  <item>
+    <date>2017 05</date>
+    <action>input</action>
+    <domain>scholarlyCom</domain>
+    <type>formation</type>
+    <nom>ResearcherID, ORCID, IdHAL... Enjeux et perspectives des identifiants chercheurs</nom>
+    <structure>UFRIST Paris</structure>
+    <personnes>Aline Bouchard</personnes>
+  </item>
+
+  <item>
+    <date>2017 05</date>
+    <action>input</action>
+    <domain>scholarlyCom</domain>
+    <type>formation</type>
+    <nom>Panorama, organisation des projets IST de la recherche</nom>
+    <structure>ENSSIB</structure>
+    <personnes>Joanna Janik</personnes>
+  </item>
+
+  <item>
+    <date>2017 03</date>
+    <action>input</action>
+    <domain>scholarlyCom</domain>
+    <type>formation</type>
+    <nom>Academia, ResearchGate… : atouts et enjeux des réseaux sociaux académiques</nom>
+    <structure>UFRIST Paris</structure>
+    <personnes>Aline Bouchard</personnes>
+  </item>
+
+  <item>
+    <date>2017 03</date>
+    <action>input</action>
+    <domain>scholarlyCom</domain>
+    <type>formation</type>
+    <nom>Altmetrics: nouvelles mesures d'impact de la recherche</nom>
+    <structure>UFRIST Paris</structure>
+    <personnes>Annaïg Mahe</personnes>
+  </item>
+
+  <item>
+    <date>2017 02</date>
+    <action>output</action>
+    <domain>musicology</domain>
+    <docType>slides</docType>
+    <titre>Une Analyse de la section 6 de Jupiter</titre>
+    <type>conférence</type>
+    <nom>Analyse, recodage et appropriation de la partie électronique des œuvres</nom>
+    <structure>Paris VIII</structure>
+    <lien url="https://hal.archives-ouvertes.fr/hal-01472842"/>
+  </item>
+
+  <item>
+    <date>2016 12</date>
+    <action>input</action>
+    <domain>scholarlyCom</domain>
+    <type>conférence</type>
+    <nom>Journée d'étude sur le TDM</nom>
+    <structure>ADBU</structure>
+    <personnes>Julien Roche</personnes>
+  </item>
+
+  <item>
+    <date>2016 11</date>
+    <action>input</action>
+    <domain>scholarlyCom</domain>
+    <type>conférence</type>
+    <nom>Open Access Week </nom>
+    <structure>Paris VIII</structure>
+    <personnes>Agnès Magron, Lionel Maurel</personnes>
+  </item>
+
+  <item>
+    <date>2016 11</date>
+    <action>output</action>
+    <domain>musicology</domain>
+    <docType>slides</docType>
+    <titre>Artefact technologique et analyse musicale en computer music</titre>
+    <type>conférence</type>
+    <nom>Doctoriales</nom>
+    <structure>UPE</structure>
+  </item>
+
+  <item>
+    <date>2016 05</date>
+    <action>input</action>
+    <domain>scholarlyCom</domain>
+    <type>formation</type>
+    <nom>Modalité d'évaluation de la recherche en SHS</nom>
+    <structure>UFRIST Paris</structure>
+    <personnes>Manuel Durand Barthez</personnes>
+  </item>
+
+  <item>
+    <date>2016 03</date>
+    <action>input</action>
+    <domain>scholarlyCom</domain>
+    <type>MOOC</type>
+    <nom>Architecture de l'information</nom>
+    <structure>ENSSIB, FUN</structure>
+  </item>
+
+  <item>
+    <date>2016 01</date>
+    <action>input</action>
+    <domain>scholarlyCom</domain>
+    <type>formation</type>
+    <nom>Bibliométrie : modèles, outils et méthodes</nom>
+    <structure>UFRIST</structure>
+    <personnes>Manuel Durand Barthez</personnes>
+  </item>
+
+  <item>
+    <date>2015 12</date>
+    <action>input</action>
+    <domain>scholarlyCom</domain>
+    <type>formation</type>
+    <nom>​La visualisation de données avec Gephi + Cartographie et visualisation de données</nom>
+    <structure>URFscholarlyCom</structure>
+    <personnes>Denis PARADE</personnes>
+  </item>
+
+  <item>
+    <date>2015 11</date>
+    <action>input</action>
+    <domain>scholarlyCom</domain>
+    <type>formation</type>
+    <nom>Les nouveaux horizons des données de bibliothèques : le web de données et ses enjeux</nom>
+    <structure>ENSSIB</structure>
+  </item>
+
+  <item>
+    <date>2015 11</date>
+    <action>input</action>
+    <domain>scholarlyCom</domain>
+    <type>Conférence</type>
+    <nom>Open Access Week</nom>
+    <structure>ENPC</structure>
+    <personnes>Michael Bon </personnes>
+  </item>
+
+  <item>
+    <date>2015 11</date>
+    <action>input</action>
+    <domain>scholarlyCom</domain>
+    <type>conférence</type>
+    <nom>La Science Ouverte en marche</nom>
+    <structure>Couperin</structure>
+    <personnes>Jean-Pierre Finance,José Cotta, Sami Kassab, Sijbolt Noorda, Michaël Bon, Leo Waaijers</personnes>
+  </item>
+
+  <item>
+    <date>2014 11</date>
+    <action>input</action>
+    <domain>musicology</domain>
+    <type>formation</type>
+    <nom>Enseigner : affirmer sa présence face à un groupe</nom>
+    <structure>Université Paris Est</structure>
+  </item>
+
+  <item>
+    <date>2014 09</date>
+    <action>output</action>
+    <domain>musicology</domain>
+    <docType>poster </docType>
+    <titre>Apprehending works of computer music through a representation of the code   </titre>
+    <type>conférence</type>
+    <nom> International Conference of Students of Systematic Musicology </nom>
+    <structure>Goldsmith university</structure>
+    <lien url="https://hal.archives-ouvertes.fr/hal-01371951" />
+
+  </item>
+
+  <item>
+    <date>2014 06</date>
+    <action>output</action>
+    <domain>musicology</domain>
+    <docType>slides</docType>
+    <titre>Des traces numériques pour appréhender les œuvres</titre>
+    <type>conférence</type>
+    <nom>BarCamp E-arts</nom>
+    <structure>UPEM</structure>
+  </item>
+
+  <item>
+    <date>2014 01</date>
+    <action>input</action>
+    <domain>musicology</domain>
+    <type>formation</type>
+    <nom>Epistémologie et philosophies des sciences</nom>
+    <structure>ENPC</structure>
+    <personnes>Nicolas Bouleau</personnes>
+  </item>
+</activities>
