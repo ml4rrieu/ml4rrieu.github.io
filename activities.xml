@@ -28,6 +28,27 @@ activities
 <activities>
 
     <item>
+        <date>2023 03</date>
+        <action>output</action>
+        <domain>scholarlyCom</domain>
+        <titre>Python pour la science ouverte #py_so</titre>
+        <nom>Atelier pour les professionnels travaillant pour la Science ouverte</nom>
+        <structure>URFIST Lyon</structure>
+        <lien url="https://github.com/ml4rrieu/py_so" />
+    </item>
+
+    <item>
+        <date>2023 02</date>
+        <action>output</action>
+        <domain>scholarlyCom</domain>
+        <titre>Bibliométrie et science ouverte</titre>
+        <nom>Formation des conservateurs d'État</nom>
+        <structure>ENSSIB</structure>
+        <lien url="https://speakerdeck.com/mlarrieu/bibliometrie-and-science-ouverte" />
+    </item>
+
+
+    <item>
         <date>2022 10</date>
         <action>output</action>
         <domain>scholarlyCom</domain>
