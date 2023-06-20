@@ -37,7 +37,6 @@ activities
         <lien url="https://hal.science/hal-04112615" />
     </item>
 
-
     <item>
         <date>2023 05</date>
         <action>output</action>
@@ -55,8 +54,7 @@ activities
         <domain>scholarlyCom</domain>
         <titre>Bibliométrie et science ouverte</titre>
         <nom>Formation à destination des presonnels tous azimuts</nom>
-        <struct 
-            ure>URFIST Occitanie</structure>
+        <structure>URFIST Occitanie</structure>
         <lien url="https://speakerdeck.com/mlarrieu/vues-sur-la-bibliometrie" />
     </item>
 
