@@ -28,6 +28,39 @@ activities
 <activities>
 
     <item>
+        <date>2023 06</date>
+        <action>output</action>
+        <domain>scholarlyCom</domain>
+        <titre>Le dessous des publications, technologies mobilisées par OPUS, plateforme éditoriale d’Université Paris Cité (poster)</titre>
+        <type>conférence</type>
+        <nom>11es Journées du réseau Médici</nom>
+        <lien url="https://hal.science/hal-04112615" />
+    </item>
+
+
+    <item>
+        <date>2023 05</date>
+        <action>output</action>
+        <domain>scholarlyCom</domain>
+        <titre>Suivi des publications issues des projets ANR, retour d'expérience à UPCité</titre>
+        <nom>Conférence CasuHAL</nom>
+        <structure>CasuHAL</structure>
+        <lien url="https://speakerdeck.com/mlarrieu/retour-dexperience-sur-un-chantier-de-suivi-des-publications-issues-des-projets-anr" />
+    </item>
+
+
+    <item>
+        <date>2023 02</date>
+        <action>output</action>
+        <domain>scholarlyCom</domain>
+        <titre>Bibliométrie et science ouverte</titre>
+        <nom>Formation à destination des presonnels tous azimuts</nom>
+        <struct 
+            ure>URFIST Occitanie</structure>
+        <lien url="https://speakerdeck.com/mlarrieu/vues-sur-la-bibliometrie" />
+    </item>
+
+    <item>
         <date>2023 03</date>
         <action>output</action>
         <domain>scholarlyCom</domain>
@@ -45,6 +78,16 @@ activities
         <nom>Formation des conservateurs d'État</nom>
         <structure>ENSSIB</structure>
         <lien url="https://speakerdeck.com/mlarrieu/bibliometrie-and-science-ouverte" />
+    </item>
+
+    <item>
+        <date>2022 12</date>
+        <action>input</action>
+        <domain>scholarlyCom</domain>
+        <type>formation</type>
+        <nom>Cycle d'accompagnement des managers</nom>
+        <structure>Universite Paris Cité</structure>
+        <personnes>Comité direction Bibliothèque Universitaire</personnes>
     </item>
 
 
@@ -65,6 +108,13 @@ activities
         <nom>Conférence interne</nom>
         <structure>CasuHAL</structure>
         <lien url="https://github.com/ml4rrieu/disciplines-differencies-hal" />
+    </item>
+
+    <item>
+        <date>2022 10</date>
+        <action>output</action>
+        <domain>scholarlyCom</domain>
+        <titre>Jury de concours INRIA - cellule accès ouvert</titre>
     </item>
 
     <item>
@@ -147,7 +197,8 @@ activities
         <titre>Plateforme éditoriale Université Paris Cité (poster)</titre>
         <type>conférence</type>
         <nom>Journées d'échanges sur les revues en SHS</nom>
-        <structure>Repères - MISHA</structure>
+        <structure>Réseau Repères</structure>
+        <lien url="https://hal.science/hal-04078536" />
     </item>
 
 
