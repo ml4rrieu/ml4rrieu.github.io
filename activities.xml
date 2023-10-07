@@ -28,6 +28,27 @@ activities
 <activities>
 
     <item>
+        <date>2023 09</date>
+        <action>output</action>
+        <domain>scholarlyCom</domain>
+        <titre>Livre, science ouverte et logiciels libres de PKP. Journée d'étude OPUS</titre>
+        <nom>Interventions, Organisaiton scientifique</nom>
+        <structure>Université Paris Cité</structure>
+        <lien url="https://opus2023.sciencesconf.org/"></lien>
+    </item>
+
+
+    <item>
+        <date>2023 09</date>
+        <action>output</action>
+        <domain>scholarlyCom</domain>
+        <titre>Pour quelles revues et publishers les chercheurs d'une université pluridisciplinaire travaillent-ils ? Cartographie des activités éditoriales à Université Paris Cité</titre>
+        <type>Rapport</type>
+        <lien url="https://doi.org/10.53480/LUOJ2939" />
+    </item>
+
+
+    <item>
         <date>2023 06</date>
         <action>output</action>
         <domain>scholarlyCom</domain>
@@ -47,6 +68,13 @@ activities
         <lien url="https://speakerdeck.com/mlarrieu/retour-dexperience-sur-un-chantier-de-suivi-des-publications-issues-des-projets-anr" />
     </item>
 
+    <item>
+        <date>2023 04</date>
+        <action>input</action>
+        <domain>scholarlyCom</domain>
+        <titre>Open Science Retreat</titre>
+        <structure>Scultetus Center, Heidi Seibold</structure>
+    </item>
 
     <item>
         <date>2023 02</date>
@@ -103,10 +131,11 @@ activities
         <action>output</action>
         <domain>scholarlyCom</domain>
         <titre>Différences disciplinaires en contexte de Science Ouverte. Étude avec les publications de HAL</titre>
-        <nom>Conférence interne</nom>
+        <nom>Séminair</nom>
         <structure>CasuHAL</structure>
         <lien url="https://github.com/ml4rrieu/disciplines-differencies-hal" />
     </item>
+
 
     <item>
         <date>2022 10</date>
