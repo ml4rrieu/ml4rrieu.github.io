@@ -27,6 +27,47 @@ activities
 -->
 <activities>
 
+
+    <item>
+        <date>2023 11</date>
+        <action>input</action>
+        <domain>scholarlyCom</domain>
+        <type>formation</type>
+        <nom>RGPD : Grands principes et bonnes pratiques de la protection des données personnelles</nom>
+        <structure>Université Grenoble Alpes</structure>
+        <personnes>Délégués à la protection des données</personnes>
+    </item>
+
+    <item>
+        <date>2023 11</date>
+        <action>output</action>
+        <domain>scholarlyCom</domain>
+        <titre>Open Science Days UGA</titre>
+        <nom>Interventions et modération</nom>
+        <structure>Université Grenoble Alpes</structure>
+        <lien url="https://osd-uga-2023.sciencesconf.org/"></lien>
+    </item>
+
+    <item>
+        <date>2023 10</date>
+        <action>output</action>
+        <domain>scholarlyCom</domain>
+        <titre>Données, institutions et cultures</titre>
+        <type>conférence</type>
+        <nom>Rencontre nationale des Plateformes Universitaires de Données</nom>
+        <structure>Université Grenoble Alpes</structure>
+        <lien url="https://speakerdeck.com/mlarrieu/donnees-institutions-et-cultures"></lien>
+    </item>
+
+    <item>
+        <date>2023 10</date>
+        <action>input</action>
+        <domain>scholarlyCom</domain>
+        <type>MOOC</type>
+        <nom>MOOC Wikidata</nom>
+        <structure>Wikimedia France</structure>
+    </item>
+
     <item>
         <date>2023 09</date>
         <action>output</action>
@@ -36,7 +77,6 @@ activities
         <structure>Université Paris Cité</structure>
         <lien url="https://opus2023.sciencesconf.org/"></lien>
     </item>
-
 
     <item>
         <date>2023 09</date>
@@ -73,7 +113,7 @@ activities
         <action>input</action>
         <domain>scholarlyCom</domain>
         <titre>Open Science Retreat</titre>
-        <structure>Scultetus Center, Heidi Seibold</structure>
+        <structure>Scultetus Center, Germany. Heidi Seibold</structure>
     </item>
 
     <item>
