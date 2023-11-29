@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<xsl:stylesheet version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 
   <xsl:template match="/">
     <p class="specifyResults">&#8594; all activities
@@ -20,10 +19,12 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
     <span class="tagAction"><xsl:value-of select="."/></span> &#160;
     <br /> <!-- saut de ligne après date et action -->
   </xsl:template>
-  <!-- <xsl:template match="domain">
+  <!-- 
+  <xsl:template match="domain">
     <span class="tagDomain"><xsl:value-of select="."/></span> <br />
+    test comment in html ? 
   </xsl:template>
- -->
+  -->
 
   <xsl:template match="docType">
     <xsl:value-of select="." />
