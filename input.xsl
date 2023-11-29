@@ -5,7 +5,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 <xsl:strip-space elements="*" />
 
   <xsl:template match="/">
-    <p class="specifyResults">&#8594; <span class="tagAction">inputs</span> is selected (those of musicology are mostly absent).
+    <p class="specifyResults">&#8594; <span class="tagAction">inputs</span> is selected
     
     <xsl:for-each select="activities/item">
 

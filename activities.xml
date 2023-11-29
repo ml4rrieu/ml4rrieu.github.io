@@ -4,7 +4,7 @@ activities
   item
     date
     action
-    domain
+    domain // 2023-11-29 n'est plus affiché
     docType
     titre
     type
@@ -64,7 +64,7 @@ activities
         <action>input</action>
         <domain>scholarlyCom</domain>
         <type>MOOC</type>
-        <nom>MOOC Wikidata</nom>
+        <nom>Wikidata</nom>
         <structure>Wikimedia France</structure>
     </item>
 
@@ -83,7 +83,6 @@ activities
         <action>output</action>
         <domain>scholarlyCom</domain>
         <titre>Pour quelles revues et publishers les chercheurs d'une université pluridisciplinaire travaillent-ils ? Cartographie des activités éditoriales à Université Paris Cité</titre>
-        <type>Rapport</type>
         <lien url="https://doi.org/10.53480/LUOJ2939" />
     </item>
 

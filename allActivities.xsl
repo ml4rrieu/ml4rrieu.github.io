@@ -19,9 +19,9 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
    <xsl:template match="action">
     <span class="tagAction"><xsl:value-of select="."/></span> &#160;
   </xsl:template>
-  <xsl:template match="domain">
+<!--   <xsl:template match="domain">
     <span class="tagDomain"><xsl:value-of select="."/></span> <br />
-  </xsl:template>
+  </xsl:template> -->
 
   <xsl:template match="docType">
     <xsl:value-of select="." />
