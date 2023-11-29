@@ -11,9 +11,9 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 
       <xsl:if test="action= 'output' ">
         <br /><br />
-        <b><xsl:value-of select="date" /> </b>&#160;
+        <b><xsl:value-of select="date" /> </b> <br />
         <!--><span class="tag"><xsl:value-of select="action"/></span> &#160; -->
-        <span class="tagDomain"><xsl:value-of select="domain"/></span> <br />
+        <!-- <span class="tagDomain"><xsl:value-of select="domain"/></span> -->
 
         <xsl:if test="action= 'output' ">
           <xsl:if test="docType">
