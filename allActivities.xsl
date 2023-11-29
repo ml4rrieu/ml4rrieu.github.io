@@ -18,7 +18,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
   </xsl:template>
    <xsl:template match="action">
     <span class="tagAction"><xsl:value-of select="."/></span> &#160;
-    <br /><br /> <!-- saut de ligne après date et action -->
+    <br /> <!-- saut de ligne après date et action -->
   </xsl:template>
   <!-- <xsl:template match="domain">
     <span class="tagDomain"><xsl:value-of select="."/></span> <br />
