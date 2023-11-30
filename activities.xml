@@ -31,7 +31,6 @@ activities
     <item>
         <date>2023 11</date>
         <action>input</action>
-        <domain>scholarlyCom</domain>
         <type>formation</type>
         <nom>RGPD : Grands principes et bonnes pratiques de la protection des données personnelles</nom>
         <structure>Université Grenoble Alpes</structure>
