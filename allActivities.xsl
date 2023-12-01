@@ -16,7 +16,7 @@
     <b><xsl:value-of select="."/></b> &#160;
   </xsl:template>
    <xsl:template match="action">
-    <span class="tagAction"><xsl:value-of select="."/></span> <br /> <!-- saut de ligne après date et action -->
+    <span class="tagAction"><xsl:value-of select="action"/></span> <br /> <!-- saut de ligne après date et action -->
   </xsl:template>
   <!-- 
   <xsl:template match="domain">
