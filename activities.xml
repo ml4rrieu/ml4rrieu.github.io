@@ -29,6 +29,24 @@ activities
 
 
     <item>
+        <date>2024 02</date>
+        <action>output</action>
+        <domain>scholarlyCom</domain>
+        <titre>Python pour la science ouverte #py_so</titre>
+        <structure>URFIST Lyon</structure>
+        <lien url="https://github.com/ml4rrieu/py_so" />
+    </item>
+
+    <item>
+        <date>2024 02</date>
+        <action>output</action>
+        <domain>scholarlyCom</domain>
+        <titre>Des données ouvertes qui bousculent l'orthodoxie bibliométrique</titre>
+        <nom>Formation des conservateurs d'État</nom>
+        <structure>ENSSIB</structure>
+    </item>
+
+    <item>
         <date>2023 11</date>
         <action>input</action>
         <type>formation</type>
