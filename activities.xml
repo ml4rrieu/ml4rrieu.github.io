@@ -27,11 +27,27 @@ activities
 -->
 <activities>
 
+    <item>
+        <date>2024 03</date>
+        <action>output</action>
+        <titre>Des données ouvertes qui bousculent l'orthodoxie bibliométrique</titre>
+        <nom>Formation des bibliothécaires</nom>
+        <structure>ENSSIB</structure>
+    </item>
+
+    <item>
+        <date>2024 03</date>
+        <action>output</action>
+        <titre>UGA Open Research Data monitor</titre>
+        <type>conférence</type>
+        <nom>Rendez vous des 3 réseaux métiers de l'INSMI</nom>
+        <structure>Université Grenoble Alpes</structure>
+        <lien url="https://indico.math.cnrs.fr/event/10998/contributions/11032/"></lien>
+    </item>
 
     <item>
         <date>2024 02</date>
         <action>output</action>
-        <domain>scholarlyCom</domain>
         <titre>Python pour la science ouverte #py_so</titre>
         <structure>URFIST Lyon</structure>
         <lien url="https://github.com/ml4rrieu/py_so" />
@@ -40,7 +56,6 @@ activities
     <item>
         <date>2024 02</date>
         <action>output</action>
-        <domain>scholarlyCom</domain>
         <titre>Des données ouvertes qui bousculent l'orthodoxie bibliométrique</titre>
         <nom>Formation des conservateurs d'État</nom>
         <structure>ENSSIB</structure>
@@ -58,7 +73,6 @@ activities
     <item>
         <date>2023 11</date>
         <action>output</action>
-        <domain>scholarlyCom</domain>
         <titre>Open Science Days UGA</titre>
         <nom>Interventions et modération</nom>
         <structure>Université Grenoble Alpes</structure>
@@ -67,8 +81,16 @@ activities
 
     <item>
         <date>2023 10</date>
+        <action>input</action>
+        <titre>Building up a European Open Science and Innovation University</titre>
+        <structure>European University alliance of innovation, technology and engineering, UNITE!, Finland</structure>
+        <lien url="https://www.unite-university.eu/unitenews/building-up-a-european-open-science-and-innovation-university"></lien>
+    </item>
+
+
+    <item>
+        <date>2023 10</date>
         <action>output</action>
-        <domain>scholarlyCom</domain>
         <titre>Données, institutions et cultures</titre>
         <type>conférence</type>
         <nom>Rencontre nationale des Plateformes Universitaires de Données</nom>
@@ -79,7 +101,6 @@ activities
     <item>
         <date>2023 10</date>
         <action>input</action>
-        <domain>scholarlyCom</domain>
         <type>MOOC</type>
         <nom>Wikidata</nom>
         <structure>Wikimedia France</structure>
@@ -88,7 +109,6 @@ activities
     <item>
         <date>2023 09</date>
         <action>output</action>
-        <domain>scholarlyCom</domain>
         <titre>Livre, science ouverte et logiciels libres de PKP. Journée d'étude OPUS</titre>
         <nom>Interventions, Organisaiton scientifique</nom>
         <structure>Université Paris Cité</structure>
@@ -98,7 +118,6 @@ activities
     <item>
         <date>2023 09</date>
         <action>output</action>
-        <domain>scholarlyCom</domain>
         <titre>Pour quelles revues et publishers les chercheurs d'une université pluridisciplinaire travaillent-ils ? Cartographie des activités éditoriales à Université Paris Cité</titre>
         <lien url="https://doi.org/10.53480/LUOJ2939" />
     </item>
@@ -107,7 +126,6 @@ activities
     <item>
         <date>2023 06</date>
         <action>output</action>
-        <domain>scholarlyCom</domain>
         <titre>Le dessous des publications, technologies mobilisées par OPUS, plateforme éditoriale d’Université Paris Cité (poster)</titre>
         <type>conférence</type>
         <nom>11es Journées du réseau Médici</nom>
@@ -117,7 +135,6 @@ activities
     <item>
         <date>2023 05</date>
         <action>output</action>
-        <domain>scholarlyCom</domain>
         <titre>Suivi des publications issues des projets ANR, retour d'expérience à UPCité</titre>
         <nom>Conférence CasuHAL</nom>
         <structure>CasuHAL</structure>
@@ -127,7 +144,6 @@ activities
     <item>
         <date>2023 04</date>
         <action>input</action>
-        <domain>scholarlyCom</domain>
         <titre>Open Science Retreat</titre>
         <structure>Scultetus Center, Germany. Heidi Seibold</structure>
     </item>
@@ -135,7 +151,6 @@ activities
     <item>
         <date>2023 02</date>
         <action>output</action>
-        <domain>scholarlyCom</domain>
         <titre>Bibliométrie et science ouverte</titre>
         <nom>Formation à destination des presonnels tous azimuts</nom>
         <structure>URFIST Occitanie</structure>
@@ -145,7 +160,6 @@ activities
     <item>
         <date>2023 03</date>
         <action>output</action>
-        <domain>scholarlyCom</domain>
         <titre>Python pour la science ouverte #py_so</titre>
         <nom>Atelier pour les professionnels travaillant pour la Science ouverte</nom>
         <structure>URFIST Lyon</structure>
@@ -155,7 +169,6 @@ activities
     <item>
         <date>2023 02</date>
         <action>output</action>
-        <domain>scholarlyCom</domain>
         <titre>Bibliométrie et science ouverte</titre>
         <nom>Formation des conservateurs d'État</nom>
         <structure>ENSSIB</structure>
@@ -165,7 +178,6 @@ activities
     <item>
         <date>2022 12</date>
         <action>input</action>
-        <domain>scholarlyCom</domain>
         <type>formation</type>
         <nom>Cycle d'accompagnement des managers</nom>
         <structure>Universite Paris Cité</structure>
@@ -176,7 +188,6 @@ activities
     <item>
         <date>2022 10</date>
         <action>output</action>
-        <domain>scholarlyCom</domain>
         <titre>French Rights Retention Strategy Monitor</titre>
         <structure>Web application</structure>
         <lien url="https://ml4rrieu.github.io/rrs" />
@@ -185,7 +196,6 @@ activities
     <item>
         <date>2022 10</date>
         <action>output</action>
-        <domain>scholarlyCom</domain>
         <titre>Différences disciplinaires en contexte de Science Ouverte. Étude avec les publications de HAL</titre>
         <nom>Séminair</nom>
         <structure>CasuHAL</structure>
@@ -196,14 +206,12 @@ activities
     <item>
         <date>2022 10</date>
         <action>output</action>
-        <domain>scholarlyCom</domain>
         <titre>Jury de concours INRIA - cellule accès ouvert</titre>
     </item>
 
     <item>
         <date>2022 10</date>
         <action>output</action>
-        <domain>scholarlyCom</domain>
         <titre>Python pour la science ouverte #py_so</titre>
         <nom>Atelier pour les professionnels travaillant pour la Science ouverte</nom>
         <structure>URFIST Occitanie</structure>
@@ -214,7 +222,6 @@ activities
    <item>
         <date>2022 09</date>
         <action>output</action>
-        <domain>scholarlyCom</domain>
         <titre>Circulation des savoirs et mesure</titre>
         <nom>Modération</nom>
         <structure>Journées Médici</structure>
@@ -224,7 +231,6 @@ activities
     <item>
         <date>2022 09</date>
         <action>output</action>
-        <domain>scholarlyCom</domain>
         <titre>Bibliométrie et science ouverte</titre>
         <nom>Atelier 2*3h</nom>
         <structure>Journées Médici</structure>
@@ -234,7 +240,6 @@ activities
     <item>
         <date>2022 07</date>
         <action>output</action>
-        <domain>scholarlyCom</domain>
         <titre>How research libraries can contribute to reform the research evaluation system</titre>
         <nom>Libraries in the Research and Innovation Landscape (LIBER 2022), Ondense, Danemark</nom>
         <structure>LIBER</structure>
@@ -244,7 +249,6 @@ activities
     <item>
         <date>2022 06</date>
         <action>output</action>
-        <domain>scholarlyCom</domain>
         <titre>Différences disciplinaires en contexte de Science Ouverte. Étude avec les publications de HAL</titre>
         <nom>Document Numérique et Société, Communication scientifique et science ouverte : opportunités, tensions et paradoxes, Liège, Belgique</nom>
         <personnes>Joachim Schöpfel</personnes>
@@ -254,7 +258,6 @@ activities
     <item>
         <date>2022 06</date>
         <action>output</action>
-        <domain>scholarlyCom</domain>
         <titre>Baromètre de la Science ouverte, un outil technico-politique</titre>
         <nom>Club utilisateurs du Baromètre de la Science Ouverte</nom>
         <structure>MESR</structure>
@@ -264,7 +267,6 @@ activities
     <item>
         <date>2022 06</date>
         <action>output</action>
-        <domain>scholarlyCom</domain>
         <titre>Exploiter l'API de HAL avec Python et les notebooks Jupyter</titre>
         <type>conférence</type>
         <nom>Journées CasuHAL</nom>
@@ -276,7 +278,6 @@ activities
     <item>
         <date>2022 05</date>
         <action>output</action>
-        <domain>scholarlyCom</domain>
         <titre>Plateforme éditoriale Université Paris Cité (poster)</titre>
         <type>conférence</type>
         <nom>Journées d'échanges sur les revues en SHS</nom>
@@ -288,7 +289,6 @@ activities
   <item>
     <date>2022 04</date>
     <action>input</action>
-    <domain>scholarlyCom</domain>
     <type>SPOC</type>
     <nom>QUERO (Qualité Editoriale, Référencement et Outils)</nom>
     <structure>GIS Réseau Urfist - Repères</structure>
@@ -299,7 +299,6 @@ activities
     <item>
         <date>2022 04</date>
         <action>output</action>
-        <domain>scholarlyCom</domain>
         <titre>Quel rôle pour les structures publiques dans l’accompagnement des revues vers l’édition ouverte ?</titre>
         <type>conférence</type>
         <nom>Plateformes éditoriales de revues scientifiques en accès ouvert Journée d’étude</nom>
@@ -310,7 +309,6 @@ activities
     <item>
         <date>2022 03</date>
         <action>output</action>
-        <domain>scholarlyCom</domain>
         <titre>Bibliométrie et science ouverte</titre>
         <nom>Formation pour les doctorants, professionnels de l'IST et bibliothécaires</nom>
         <structure>URFIST Rennes</structure>
@@ -320,7 +318,6 @@ activities
     <item>
         <date>2022 02</date>
         <action>output</action>
-        <domain>scholarlyCom</domain>
         <titre>Bibliométrie et science ouverte</titre>
         <nom>Formation des conservateurs d'État</nom>
         <structure>ENSSIB</structure>
@@ -331,7 +328,6 @@ activities
     <item>
         <date>2022 01</date>
         <action>output</action>
-        <domain>scholarlyCom</domain>
         <titre>Python pour la science ouverte #py_so</titre>
         <nom>Atelier pour les professionnels travaillant pour la Science ouverte</nom>
         <structure>URFIST Occitanie</structure>
@@ -343,7 +339,6 @@ activities
     <item>
         <date>2021 12</date>
         <action>output</action>
-        <domain>scholarlyCom</domain>
         <titre>Developing an Open Science Publishing Strategy</titre>
         <nom>Open Science Training for PhD Students</nom>
         <structure>Université de Paris</structure>
@@ -355,7 +350,6 @@ activities
     <item>
     <date>2021 12</date>
     <action>output</action>
-    <domain>scholarlyCom</domain>
     <titre>Baromètre Science Ouverte Université de Paris : lumière sur les SHS</titre>
     <nom>DataSHS : Des métadonnées ouvertes pour une bibliométrie au service de la recherche</nom>
     <structure>Université de Paris</structure>
@@ -375,7 +369,6 @@ activities
    <item>
     <date>2021 11</date>
     <action>output</action>
-    <domain>scholarlyCom</domain>
     <titre>Vues sur la bibliométrie</titre>
     <nom>Formation pour les doctorants, professionnels de l'IST et bibliothécaires</nom>
     <structure>URFIST Occitanie</structure>
@@ -395,7 +388,6 @@ activities
    <item>
     <date>2021 09</date>
     <action>output</action>
-    <domain>scholarlyCom</domain>
     <titre>Ouvrir l’accès aux dernières publications de son établissement avec HAL </titre>
     <nom>Bulletin des bibliothèques de France</nom>
     <structure>ENSSIB</structure>
@@ -425,7 +417,6 @@ activities
   <item>
     <date>2021 06</date>
     <action>output</action>
-    <domain>scholarlyCom</domain>
     <titre>Science Ouverte et suivi des publications</titre>
     <nom>Journée d'étude sur le suivi des publications</nom>
     <structure>URFIST</structure>
@@ -435,7 +426,6 @@ activities
    <item>
     <date>2021 02</date>
     <action>output</action>
-    <domain>scholarlyCom</domain>
     <titre>Vues sur la bibliométrie</titre>
     <nom>Formation des conservateurs d'État</nom>
     <structure>ENSSIB</structure>
@@ -445,7 +435,6 @@ activities
    <item>
     <date>2021 01</date>
     <action>output</action>
-    <domain>scholarlyCom</domain>
     <titre>Interview de Catherine Cardon, la doyenne de HAL</titre>
     <structure>Casuhal</structure>
     <lien url="https://web.archive.org/web/20210316151254/https://www.casuhal.org/2021/01/25/catherine-cardon-interview-de-la-doyenne-de-hal/"></lien>
@@ -464,7 +453,6 @@ activities
    <item>
     <date>2020 12</date>
     <action>output</action>
-    <domain>scholarlyCom</domain>
     <titre>Retour sur les enquêtes au sujet des données de la recherche</titre>
     <nom>Modération</nom>
     <structure>Couperin, Groupe de travail Science ouverte, Données de la recherche</structure>
@@ -486,7 +474,6 @@ activities
   <item>
     <date>2020 10</date>
     <action>output</action>
-    <domain>scholarlyCom</domain>
     <titre>Participez à l'accès ouvert !</titre>
     <nom>Argumentaire réalisé dans le contexte de la COVID-19 et de l'open access week</nom>
     <structure>UVSQ</structure>
@@ -496,7 +483,6 @@ activities
   <item>
     <date>2020 09</date>
     <action>output</action>
-    <domain>scholarlyCom</domain>
     <titre>Piloter la science ouverte dans son établissement</titre>
     <nom>Formations continues</nom>
     <structure>ENSSIB</structure>
@@ -506,7 +492,6 @@ activities
   <item>
     <date>2020 09</date>
     <action>input</action>
-    <domain>scholarlyCom</domain>
     <type>formation</type>
     <nom>Invitation aux données de la recherche</nom>
     <structure>URFIST Paris</structure>
@@ -516,7 +501,6 @@ activities
   <item>
     <date>2020 07</date>
     <action>input</action>
-    <domain>scholarlyCom</domain>
     <type>MOOC</type>
     <nom>Recherche reproductible : principes méthodologiques pour une science transparente</nom>
     <structure>INRIA</structure>
@@ -527,7 +511,6 @@ activities
   <item>
     <date>2020 06</date>
     <action>input</action>
-    <domain>scholarlyCom</domain>
     <type>MOOC</type>
     <nom>Python 3 : des fondamentaux aux concepts avancés du langage</nom>
     <structure>INRIA, UCA</structure>
@@ -537,7 +520,6 @@ activities
   <item>
     <date>2020 04</date>
     <action>input</action>
-    <domain>scholarlyCom</domain>
     <type>MOOC</type>
     <nom>Scopus Certification</nom>
     <structure>Elsevier</structure>
@@ -546,7 +528,6 @@ activities
   <item>
     <date>2020 02</date>
     <action>output</action>
-    <domain>scholarlyCom</domain>
     <!-- <docType>slides</docType> -->
     <titre>La Bibliométrie à l’heure de la Science Ouverte</titre>
     <nom>Formation des conservateurs d'État</nom>
@@ -556,7 +537,6 @@ activities
   <item>
     <date>2019 12</date>
     <action>output</action>
-    <domain>scholarlyCom</domain>
     <titre>Introduction à la bibliométrie</titre>
     <type>formation doctorale</type>
     <structure>UVSQ</structure>
@@ -566,7 +546,6 @@ activities
   <item>
     <date>2019 12</date>
     <action>input</action>
-    <domain>scholarlyCom</domain>
     <type>formation</type>
     <nom>FaiR ou Fair-RR? Réutilisation vs Recherche Reproductible?</nom>
     <structure>CNRS Dialogu'IST</structure>
@@ -576,7 +555,6 @@ activities
   <item>
     <date>2019 11</date>
     <action>input</action>
-    <domain>scholarlyCom</domain>
     <type>formation</type>
     <nom>Médiatiser la bibliométrie auprès des chercheurs</nom>
     <structure>URFIST</structure>
@@ -596,7 +574,6 @@ activities
   <item>
     <date>2019 09</date>
     <action>input</action>
-    <domain>scholarlyCom</domain>
     <type>MOOC</type>
     <nom>Python specialization ~150 h</nom>
     <structure>University of Michigan via Coursera</structure>
@@ -606,7 +583,6 @@ activities
 <item>
     <date>2019 08</date>
     <action>output</action>
-    <domain>scholarlyCom</domain>
     <titre>Retour sur les 3e journées CasuHal 2019</titre>
     <nom>Bulletin des bibliothèques de France (BBF)</nom>
     <structure>ENSSIB.</structure>
@@ -616,7 +592,6 @@ activities
   <item>
     <date>2019 07</date>
     <action>input</action>
-    <domain>scholarlyCom</domain>
     <type>conférence</type>
     <nom>Ranking Best Practices Workshop</nom>
     <structure>Université Paris Saclay</structure>
@@ -625,7 +600,6 @@ activities
   <item>
     <date>2019 03</date>
     <action>output</action>
-    <domain>scholarlyCom</domain>
     <titre>Open Access and Scholarly Communication</titre>
     <nom>Seminar</nom>
     <structure>University of Limerick</structure>
@@ -653,7 +627,6 @@ activities
   <item>
     <date> 2018 12</date>
     <action>output</action>
-    <domain>scholarlyCom</domain>
     <titre>Évaluer la Science Ouverte, les principes de la déclaration DORA</titre>
     <nom>Journées Nationales de la Science Ouverte</nom>
     <structure>Comité pour la Science Ouverte </structure>
@@ -663,7 +636,6 @@ activities
   <item>
     <date>2018 12</date>
     <action>input</action>
-    <domain>scholarlyCom</domain>
     <type>formation</type>
     <nom>Manager</nom>
     <structure>SIC Formation</structure>
@@ -673,7 +645,6 @@ activities
   <item>
     <date>2018 11</date>
     <action>output</action>
-    <domain>scholarlyCom</domain>
     <titre>Quelles fonctionnalitées pour valoriser une archive ouverte ? </titre>
     <nom>Formation "Promouvoir et valoriser l'open access"</nom>
     <structure>ENSSIB</structure>
@@ -694,7 +665,6 @@ activities
   <item>
     <date>2018 11</date>
     <action>input</action>
-    <domain>scholarlyCom</domain>
     <type>formation</type>
     <nom>Déléguer et responsabiliser</nom>
     <structure>SIC Formation</structure>
@@ -704,7 +674,6 @@ activities
   <item>
     <date>2018 10</date>
     <action>output</action>
-    <domain>scholarlyCom</domain>
     <titre>Open Access et implication des chercheurs </titre>
     <nom>Modération, journée d'étude</nom>
     <structure>Université d'Angers</structure>
@@ -714,7 +683,6 @@ activities
   <item>
     <date>2018 06</date>
     <action>output</action>
-    <domain>scholarlyCom</domain>
     <titre>Éclairer l'Open Acess</titre>
     <nom>Argumentaire réalisée pour le site web</nom>
     <structure>Université d'Angers</structure>
@@ -724,7 +692,6 @@ activities
   <item>
     <date> 2018 06</date>
     <action>output</action>
-    <domain>scholarlyCom</domain>
     <titre> l'Archive Ouverte Okina </titre>
     <nom>intervention donnée dans le cadre du "Forum des archives ouvertes"</nom>
     <structure>SciencePo </structure>
@@ -734,7 +701,6 @@ activities
   <item>
     <date>2018 05</date>
     <action>input</action>
-    <domain>scholarlyCom</domain>
     <type>conférence</type>
     <nom>Journée CasuHAL </nom>
     <structure>MSH de Dijon </structure>
@@ -755,7 +721,6 @@ activities
   <item>
     <date>2018 05</date>
     <action>input</action>
-    <domain>scholarlyCom</domain>
     <type>formation</type>
     <nom>Le paysage de l'Open Access</nom>
     <structure>UFRIST Rennes</structure>
@@ -765,7 +730,6 @@ activities
   <item>
     <date>2018 05</date>
     <action>input</action>
-    <domain>scholarlyCom</domain>
     <type>formation</type>
     <nom>J.e-cours : Panorama et catalogage des identifiants de personnes et structures</nom>
     <structure>Abes</structure>
@@ -775,7 +739,6 @@ activities
   <item>
     <date>2018 01</date>
     <action>input</action>
-    <domain>scholarlyCom</domain>
     <type>Conférence</type>
     <nom>Journées Science Ouverte 2018 : 100% Open Access : initiatives pour une transition réussie</nom>
     <structure>Couperin</structure>
@@ -796,7 +759,6 @@ activities
   <item>
     <date>2017 12</date>
     <action>input</action>
-    <domain>scholarlyCom</domain>
     <type>formation</type>
     <nom>Twitter comme outil académique</nom>
     <structure>UFRIST Paris</structure>
@@ -806,7 +768,6 @@ activities
 
     <date>2017 11</date>
     <action>input</action>
-    <domain>scholarlyCom</domain>
     <type>formation</type>
     <nom>séminaire doctoral : approches textométriques</nom>
     <structure>Univ. Paris-Est</structure>
@@ -816,7 +777,6 @@ activities
   <item>
     <date>2017 10</date>
     <action>input</action>
-    <domain>scholarlyCom</domain>
     <type>Conférence</type>
     <nom>Open Access Week</nom>
     <structure>ENS Paris</structure>
@@ -826,7 +786,6 @@ activities
   <item>
     <date>2017 10</date>
     <action>output</action>
-    <domain>scholarlyCom</domain>
     <titre>Pourquoi publier en Open Access ?</titre>
     <nom>intervention dans le cadre de l'Open Access Week</nom>
     <structure>UPEM</structure>
@@ -836,7 +795,6 @@ activities
   <item>
     <date>2017 10</date>
     <action>input</action>
-    <domain>scholarlyCom</domain>
     <type>formation</type>
     <nom>Administrer un portail HAL</nom>
     <structure>CCSD</structure>
@@ -846,7 +804,6 @@ activities
   <item>
     <date>2017 06</date>
     <action>input</action>
-    <domain>scholarlyCom</domain>
     <type>formation</type>
     <nom>La publication scientifique aujourd'hui en sciences humaines et sociales</nom>
     <structure>UFRIST</structure>
@@ -856,7 +813,6 @@ activities
   <item>
     <date>2017 06</date>
     <action>output</action>
-    <domain>scholarlyCom</domain>
     <titre> Rapport bibliométrique 2017</titre>
     <docType>rapport interne</docType>
     <structure>UPEM</structure>
@@ -865,7 +821,6 @@ activities
   <item>
     <date>2017 05</date>
     <action>input</action>
-    <domain>scholarlyCom</domain>
     <type>formation</type>
     <nom>ResearcherID, ORCID, IdHAL... Enjeux et perspectives des identifiants chercheurs</nom>
     <structure>UFRIST Paris</structure>
@@ -875,7 +830,6 @@ activities
   <item>
     <date>2017 05</date>
     <action>input</action>
-    <domain>scholarlyCom</domain>
     <type>formation</type>
     <nom>Panorama, organisation des projets IST de la recherche</nom>
     <structure>ENSSIB</structure>
@@ -885,7 +839,6 @@ activities
   <item>
     <date>2017 03</date>
     <action>input</action>
-    <domain>scholarlyCom</domain>
     <type>formation</type>
     <nom>Academia, ResearchGate… : atouts et enjeux des réseaux sociaux académiques</nom>
     <structure>UFRIST Paris</structure>
@@ -895,7 +848,6 @@ activities
   <item>
     <date>2017 03</date>
     <action>input</action>
-    <domain>scholarlyCom</domain>
     <type>formation</type>
     <nom>Altmetrics: nouvelles mesures d'impact de la recherche</nom>
     <structure>UFRIST Paris</structure>
@@ -917,7 +869,6 @@ activities
   <item>
     <date>2016 12</date>
     <action>input</action>
-    <domain>scholarlyCom</domain>
     <type>conférence</type>
     <nom>Journée d'étude sur le TDM</nom>
     <structure>ADBU</structure>
@@ -927,7 +878,6 @@ activities
   <item>
     <date>2016 11</date>
     <action>input</action>
-    <domain>scholarlyCom</domain>
     <type>conférence</type>
     <nom>Open Access Week </nom>
     <structure>Paris VIII</structure>
@@ -948,7 +898,6 @@ activities
   <item>
     <date>2016 05</date>
     <action>input</action>
-    <domain>scholarlyCom</domain>
     <type>formation</type>
     <nom>Modalité d'évaluation de la recherche en SHS</nom>
     <structure>UFRIST Paris</structure>
@@ -958,7 +907,6 @@ activities
   <item>
     <date>2016 03</date>
     <action>input</action>
-    <domain>scholarlyCom</domain>
     <type>MOOC</type>
     <nom>Architecture de l'information</nom>
     <structure>ENSSIB, FUN</structure>
@@ -967,7 +915,6 @@ activities
   <item>
     <date>2016 01</date>
     <action>input</action>
-    <domain>scholarlyCom</domain>
     <type>formation</type>
     <nom>Bibliométrie : modèles, outils et méthodes</nom>
     <structure>UFRIST</structure>
@@ -977,7 +924,6 @@ activities
   <item>
     <date>2015 12</date>
     <action>input</action>
-    <domain>scholarlyCom</domain>
     <type>formation</type>
     <nom>​La visualisation de données avec Gephi + Cartographie et visualisation de données</nom>
     <structure>URFscholarlyCom</structure>
@@ -987,7 +933,6 @@ activities
   <item>
     <date>2015 11</date>
     <action>input</action>
-    <domain>scholarlyCom</domain>
     <type>formation</type>
     <nom>Les nouveaux horizons des données de bibliothèques : le web de données et ses enjeux</nom>
     <structure>ENSSIB</structure>
@@ -996,7 +941,6 @@ activities
   <item>
     <date>2015 11</date>
     <action>input</action>
-    <domain>scholarlyCom</domain>
     <type>Conférence</type>
     <nom>Open Access Week</nom>
     <structure>ENPC</structure>
@@ -1006,7 +950,6 @@ activities
   <item>
     <date>2015 11</date>
     <action>input</action>
-    <domain>scholarlyCom</domain>
     <type>conférence</type>
     <nom>La Science Ouverte en marche</nom>
     <structure>Couperin</structure>
