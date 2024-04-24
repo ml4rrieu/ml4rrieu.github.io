@@ -46,6 +46,14 @@ activities
     </item>
 
     <item>
+        <date>2024 03</date>
+        <action>output</action>
+        <titre>UGA Open Research Data monitor</titre>
+        <type>website</type>
+        <lien url="https://mlarrieu.gricad-pages.univ-grenoble-alpes.fr/open-research-data-monitor/Monitor/"></lien>
+    </item>
+
+    <item>
         <date>2024 02</date>
         <action>output</action>
         <titre>Python pour la science ouverte #py_so</titre>
