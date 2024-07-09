@@ -22,10 +22,28 @@ activities
     <nom>Organised Sound</nom>
     <lien url="https://hal.archives-ouvertes.fr/hal-02386818"></lien>
   </item>
-
-
 -->
+
+
 <activities>
+
+    <item>
+        <date>2024 07</date>
+        <action>input</action>
+        <type>formation</type>
+        <nom>ANF Protéger, valoriser et faire vivre un logiciel libre</nom>
+        <structure>CNRS INSMI/INSHS</structure>
+        <personnes>Matthieu Haefele, Violaine Louvet, Daniel Le Berre, François Pellegrini</personnes>
+    </item>
+
+    <item>
+        <date>2024 06</date>
+        <action>output</action>
+        <titre>Combien d'identifiants ORCID pour l'Université Grenoble Alpes ?</titre>
+        <type>billet de blog</type>
+        <lien url="https://gates-data-shs.gricad-pages.univ-grenoble-alpes.fr/blog/2024-05-29/ORCID-UGA-exploration"></lien>
+    </item>
+
 
     <item>
         <date>2024 03</date>
