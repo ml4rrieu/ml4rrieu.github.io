@@ -28,6 +28,14 @@ activities
 <activities>
 
     <item>
+        <date>2024 09</date>
+        <action>input</action>
+        <type>formation</type>
+        <nom>Management, déléguer et responsabiliser ses équipes</nom>
+        <structure>CNRS, Ananta Conseil</structure>
+    </item>
+
+    <item>
         <date>2024 07</date>
         <action>input</action>
         <type>formation</type>
