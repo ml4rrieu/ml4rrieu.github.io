@@ -28,6 +28,16 @@ activities
 <activities>
 
     <item>
+        <date>2024 11</date>
+        <action>output</action>
+        <titre>Science ouverte à GRICAD</titre>
+        <type>conférence</type>
+        <nom>Journées des utilisateurs de GRICAD</nom>
+        <structure>CNRS, Université Grenoble Alpes, INRIA</structure>
+        <lien url="https://jug-2024.sciencesconf.org/"></lien>
+    </item>
+
+    <item>
         <date>2024 09</date>
         <action>input</action>
         <type>formation</type>
@@ -76,7 +86,7 @@ activities
         <action>output</action>
         <titre>UGA Open Research Data monitor</titre>
         <type>website</type>
-        <lien url="https://mlarrieu.gricad-pages.univ-grenoble-alpes.fr/open-research-data-monitor/Monitor/"></lien>
+        <lien url="https://mlarrieu.gricad-pages.univ-grenoble-alpes.fr/open-research-data-monitor/"></lien>
     </item>
 
     <item>
