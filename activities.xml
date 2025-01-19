@@ -28,6 +28,15 @@ activities
 <activities>
 
     <item>
+        <date>2024 12</date>
+        <action>output</action>
+        <titre>Open Science Days UGA</titre>
+        <nom>Organisation et modérations</nom>
+        <structure>Université Grenoble Alpes</structure>
+        <lien url="https://osd-uga-2024.sciencesconf.org/"></lien>
+    </item>
+    
+    <item>
         <date>2024 11</date>
         <action>output</action>
         <titre>Science ouverte à GRICAD</titre>
