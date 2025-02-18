@@ -28,6 +28,14 @@ activities
 <activities>
 
     <item>
+        <date>2025 02</date>
+        <action>output</action>
+        <titre>Vers une bibliométrie cohérente aux valeurs de la science ouverte</titre>
+        <nom>Formation des conservateurs</nom>
+        <structure>ENSSIB</structure>
+    </item>
+
+    <item>
         <date>2024 12</date>
         <action>output</action>
         <titre>Open Science Days UGA</titre>
