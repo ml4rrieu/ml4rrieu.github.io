@@ -28,6 +28,16 @@ activities
 <activities>
 
     <item>
+        <date>2025 03</date>
+        <action>output</action>
+        <titre>Transparency to sustain open science infrastructure</titre>
+        <type>conférence</type>
+        <nom>Printemps Couperin</nom>
+        <structure>Consortium Couperin</structure>
+        <lien url="https://speakerdeck.com/mlarrieu/transparency-to-sustain-open-science-infrastructure-printemps-couperin"></lien>
+    </item>
+
+    <item>
         <date>2025 02</date>
         <action>output</action>
         <titre>Vers une bibliométrie cohérente aux valeurs de la science ouverte</titre>
