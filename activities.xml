@@ -9,32 +9,84 @@ activities
     titre
     type
     nom
-    structure
+    structure // pour les confs, mettre la ville et pays
     personnes
     lien
 
-  <item>
-    <date> 2019 01</date>
-    <action>output</action>
-    <domain>musicology</domain>
-    <docType>article</docType>
-    <titre> A consideration of the code of computer music as writing, and some reflections on the analytical theories (in press)</titre>
-    <nom>Organised Sound</nom>
-    <lien url="https://hal.archives-ouvertes.fr/hal-02386818"></lien>
-  </item>
 -->
 
-
 <activities>
+
+    <item>
+        <date>2025-09-10</date>
+        <action>output</action>
+        <titre>Journée d'échange GATES DATA SHS</titre>
+        <nom>Intervention et modération</nom>
+        <structure>GRICAD, Université Grenoble Alpes</structure>
+    </item>
+
+
+    <item>
+        <date>2025 07</date>
+        <action>output</action>
+        <titre>Transparency to sustain open science infrastructure</titre>
+        <type>conference</type>
+        <nom>LIBER 2025 : Engage, collaborate, innovate: libraries working to address global challenges.</nom>
+        <structure>Lausanne University, Switzerland</structure>
+    </item>
+
+
+    <item>
+        <date>2025 06</date>
+        <action>output</action>
+        <titre>Transparency to sustain open science infrastructure</titre>
+        <nom>Inaugural webinar</nom>
+        <lien url="https://doi.org/10.5281/zenodo.15674779"/>
+    </item>
+
+    <item>
+        <date>2025 06</date>
+        <action>input</action>
+        <titre>Skills4EOSC, Building Capacity for Open Science</titre>
+        <structure>Campus Condorcet, Paris</structure>
+        <lien url="https://www.skills4eosc.eu/participate/events/building-capacity-for-open-science" />
+    </item>
+
+    <item>
+        <date>2025 05</date>
+        <action>output</action>
+        <titre>JE GATES DATA SHS</titre>
+        <nom>Organisation et modération</nom>
+        <structure>GRICAD, Université Grenoble Alpes</structure>
+        <lien url="https://doi.org/10.34847/nkl.bf9d4m75" />
+    </item>
+
+    <item>
+        <date>2025 04</date>
+        <action>output</action>
+        <titre>Transparency to sustain open science infrastructure</titre>
+        <nom>SCOSS Webinar</nom>
+        <lien url="https://doi.org/10.5281/zenodo.15390561" />
+    </item>
+
+    <item>
+        <date>2025 04</date>
+        <action>output</action>
+        <titre>Inauguration du programme de recherche en sciences humaines et sociales FORESEE </titre>
+        <type>Seminar</type>
+        <structure>Université Grenoble Alpes</structure>
+        <lien url="https://page.hn/w7qech"/>
+    </item>
+
 
     <item>
         <date>2025 03</date>
         <action>output</action>
         <titre>Transparency to sustain open science infrastructure</titre>
-        <type>conférence</type>
+        <type>conference</type>
         <nom>Printemps Couperin</nom>
-        <structure>Consortium Couperin</structure>
-        <lien url="https://speakerdeck.com/mlarrieu/transparency-to-sustain-open-science-infrastructure-printemps-couperin"></lien>
+        <structure>Consortium Couperin, Paris</structure>
+        <lien url="https://printempscoup.sciencesconf.org/?lang=fr" />
     </item>
 
     <item>
@@ -42,16 +94,24 @@ activities
         <action>output</action>
         <titre>Vers une bibliométrie cohérente aux valeurs de la science ouverte</titre>
         <nom>Formation des conservateurs</nom>
-        <structure>ENSSIB</structure>
+        <structure>ENSSIB, Lyon</structure>
     </item>
 
     <item>
         <date>2024 12</date>
         <action>output</action>
         <titre>Open Science Days UGA</titre>
-        <nom>Organisation et modérations</nom>
+        <nom>Organisation et modération</nom>
         <structure>Université Grenoble Alpes</structure>
         <lien url="https://osd-uga-2024.sciencesconf.org/"></lien>
+    </item>
+
+    <item>
+        <date>2024 10</date>
+        <action>output</action>
+        <titre>UGA Open Research Software monitor</titre>
+        <type>computer code</type>
+        <lien url="https://gricad-gitlab.univ-grenoble-alpes.fr/mlarrieu/open-research-software-monitor/"></lien>
     </item>
     
     <item>
@@ -60,7 +120,7 @@ activities
         <titre>Science ouverte à GRICAD</titre>
         <type>conférence</type>
         <nom>Journées des utilisateurs de GRICAD</nom>
-        <structure>CNRS, Université Grenoble Alpes, INRIA</structure>
+        <structure>Université Grenoble Alpes, CNRS, INRIA</structure>
         <lien url="https://jug-2024.sciencesconf.org/"></lien>
     </item>
 
@@ -71,6 +131,16 @@ activities
         <nom>Management, déléguer et responsabiliser ses équipes</nom>
         <structure>CNRS, Ananta Conseil</structure>
     </item>
+
+    <item>
+        <date>2024 08</date>
+        <action>output</action>
+        <titre>Grenoble Alpes University through ROR: ensure data quality</titre>
+        <type>blogpost</type>
+        <structure>Université Grenoble Alpes</structure>
+        <lien url="https://hal.science/hal-04916024/"></lien>
+    </item>
+
 
     <item>
         <date>2024 07</date>
@@ -85,7 +155,8 @@ activities
         <date>2024 06</date>
         <action>output</action>
         <titre>Combien d'identifiants ORCID pour l'Université Grenoble Alpes ?</titre>
-        <type>billet de blog</type>
+        <type>blogpost</type>
+        <structure>Université Grenoble Alpes</structure>
         <lien url="https://gates-data-shs.gricad-pages.univ-grenoble-alpes.fr/blog/2024-05-29/ORCID-UGA-exploration"></lien>
     </item>
 
@@ -95,13 +166,13 @@ activities
         <action>output</action>
         <titre>Des données ouvertes qui bousculent l'orthodoxie bibliométrique</titre>
         <nom>Formation des bibliothécaires</nom>
-        <structure>ENSSIB</structure>
+        <structure>ENSSIB, Lyon</structure>
     </item>
 
     <item>
         <date>2024 03</date>
         <action>output</action>
-        <titre>UGA Open Research Data monitor</titre>
+        <titre>UGA Open Research Data Monitor</titre>
         <type>conférence</type>
         <nom>Rendez vous des 3 réseaux métiers de l'INSMI</nom>
         <structure>Université Grenoble Alpes</structure>
@@ -112,7 +183,8 @@ activities
         <date>2024 03</date>
         <action>output</action>
         <titre>UGA Open Research Data monitor</titre>
-        <type>website</type>
+        <type>computer code</type>
+        <structure>Université Grenoble Alpes</structure>
         <lien url="https://mlarrieu.gricad-pages.univ-grenoble-alpes.fr/open-research-data-monitor/"></lien>
     </item>
 
@@ -129,7 +201,7 @@ activities
         <action>output</action>
         <titre>Des données ouvertes qui bousculent l'orthodoxie bibliométrique</titre>
         <nom>Formation des conservateurs d'État</nom>
-        <structure>ENSSIB</structure>
+        <structure>ENSSIB, Lyon</structure>
     </item>
 
     <item>
@@ -200,14 +272,15 @@ activities
         <titre>Le dessous des publications, technologies mobilisées par OPUS, plateforme éditoriale d’Université Paris Cité (poster)</titre>
         <type>conférence</type>
         <nom>11es Journées du réseau Médici</nom>
-        <lien url="https://hal.science/hal-04112615" />
+        <structure>Université de Liège, Belgique</structure>
+        <lien url="https://hal.science/hal-04112615"/>
     </item>
 
     <item>
         <date>2023 05</date>
         <action>output</action>
-        <titre>Suivi des publications issues des projets ANR, retour d'expérience à UPCité</titre>
-        <nom>Conférence CasuHAL</nom>
+        <titre>Suivi des publications issues des projets ANR, retour d'expérience à Université Paris Cité</titre>
+        <type>Webinar</type>
         <structure>CasuHAL</structure>
         <lien url="https://speakerdeck.com/mlarrieu/retour-dexperience-sur-un-chantier-de-suivi-des-publications-issues-des-projets-anr" />
     </item>
@@ -217,6 +290,7 @@ activities
         <action>input</action>
         <titre>Open Science Retreat</titre>
         <structure>Scultetus Center, Germany. Heidi Seibold</structure>
+        <personne>Heidi Seibold </personne>
     </item>
 
     <item>
@@ -242,7 +316,7 @@ activities
         <action>output</action>
         <titre>Bibliométrie et science ouverte</titre>
         <nom>Formation des conservateurs d'État</nom>
-        <structure>ENSSIB</structure>
+        <structure>ENSSIB, Lyon</structure>
         <lien url="https://speakerdeck.com/mlarrieu/bibliometrie-and-science-ouverte" />
     </item>
 
@@ -277,7 +351,8 @@ activities
     <item>
         <date>2022 10</date>
         <action>output</action>
-        <titre>Jury de concours INRIA - cellule accès ouvert</titre>
+        <titre>Jury de concours : cellule accès ouvert</titre>
+        <structure>INRIA</structure>
     </item>
 
     <item>
@@ -296,7 +371,7 @@ activities
         <titre>Circulation des savoirs et mesure</titre>
         <nom>Modération</nom>
         <structure>Journées Médici</structure>
-        <lien url="https://medici2022.sciencesconf.org/"></lien>
+        <lien url="https://medici2022.sciencesconf.org/" />
   </item>
 
     <item>
@@ -312,8 +387,8 @@ activities
         <date>2022 07</date>
         <action>output</action>
         <titre>How research libraries can contribute to reform the research evaluation system</titre>
-        <nom>Libraries in the Research and Innovation Landscape (LIBER 2022), Ondense, Danemark</nom>
-        <structure>LIBER</structure>
+        <nom>Libraries in the Research and Innovation Landscape</nom>
+        <structure>University of Ondense, Danemark</structure>
         <lien url="https://zenodo.org/record/6812306" />
     </item>
     
@@ -330,6 +405,7 @@ activities
         <date>2022 06</date>
         <action>output</action>
         <titre>Baromètre de la Science ouverte, un outil technico-politique</titre>
+        <type>computer code</type>
         <nom>Club utilisateurs du Baromètre de la Science Ouverte</nom>
         <structure>MESR</structure>
         <lien url="https://github.com/ml4rrieu/bso_univ_paris" />
@@ -1044,7 +1120,7 @@ activities
     <titre>Apprehending works of computer music through a representation of the code   </titre>
     <type>conférence</type>
     <nom> International Conference of Students of Systematic Musicology </nom>
-    <structure>Goldsmith university</structure>
+    <structure>Goldsmith university, London</structure>
     <lien url="https://hal.archives-ouvertes.fr/hal-01371951" />
 
   </item>
