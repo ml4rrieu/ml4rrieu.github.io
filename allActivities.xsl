@@ -13,7 +13,7 @@
 
   <xsl:template match="date">
     <br /><br /> <!-- on commence par sauter une ligne -->
-    <b><xsl:value-of select="."/></b> &#160;
+    <b style="color:#616262;"><xsl:value-of select="."/></b> &#160;
   </xsl:template>
    <xsl:template match="action">
     <span class="tagAction"><xsl:value-of select="."/></span> <br /> <!-- saut de ligne après date et action -->
