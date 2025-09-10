@@ -1,26 +1,58 @@
-  h1{
-  font-family: "Montserrat", sans-serif;
-  background: linear-gradient(to bottom, white,  #ddd);
+#corps{
+  /*width:100%;*/
+  padding-left: clamp(1rem, 13vw, 60%);  /* more padding allowed on big screens */
+  padding-right: clamp(1rem, 13vw, 40%);
 
+  margin-top: clamp(1rem, 3vw, 20%);
+}
+
+.presentation{
   text-align: center;
-  padding-top:15px;
-  padding-bottom:20px;
-  margin-bottom:0px;
-  font-size: 290%;
-  color : #616262;
+  font-size: clamp(1.3rem, 1.9vw, 1.7rem); /* min 16px, max ~25px */
 
 }
-h2{
-  padding-top: 2%;
-  color : #666;
-  font-size: 190%;
-  font-family: "Montserrat", sans-serif;
+
+p{
+  font-family: "karla", sans-serif;
+  font-size: clamp(1.2rem, 1.3vw, 1.2rem); /* min 14px, max ~19px */
+  line-height: 130%;
+  color : #616262 ;
 }
+
+
+p.networks{
+  padding-left: 40%;
+  padding-top:1%;
+  line-height: 100%;
+}
+
 
 hr{
   margin: 0;
   color : white;
 }
+
+strong{
+  font-weight: bolder;
+  /*line-height: 1.6;*/
+  background: linear-gradient(90deg,rgba(152, 36, 156, 1) 4%, rgba(71, 90, 196, 1) 100%);
+  background-clip: text;
+  -webkit-background-clip: text; /* For Safari */
+  color: transparent; /* Make the text color transparent */
+  /*animation: flashy 1.5s infinite alternate; /* Add animation */*/
+}
+
+b{
+  color: #ba37bf;
+}
+
+footer{
+  text-align: center;
+  font-family: "karla", sans-serif;
+  padding-top:5%;
+  color : #616262;
+}
+
 #menu{
   background: linear-gradient(to bottom, #ddd, white);
   margin: 0;
@@ -30,7 +62,7 @@ hr{
   background-color: #f3f3f3;
   font-family: "Montserrat", sans-serif;
   text-align: center;
-  font-size: 150%;
+  font-size: 1.4rem;
 }
 
 #menu a{
@@ -48,27 +80,23 @@ hr{
 }
 
 #menu a:hover:not(.active) {
-/*background: linear-gradient(to top, #ddd, white);*/
 opacity: 0.7;
 text-shadow: 0px 0px 10px grey;
-/*#ddd;*/
-}
-a{
-  color : #1f618d;
-  text-decoration: underline;
-  -webkit-transition-duration: 0.4s; /* Safari */
-  transition-duration: 0.4s;
-}
-a:hover{
-  text-decoration: none;
 }
 
-#corps{
-  margin-top: 4%;
-  margin-left: 1%;
-  /* font-family: 'Karla', sans-serif;
-  text-align: justify;*/
+a{
+  color : #616262;
+  text-decoration: underline;
+  text-decoration-color: #f9f570; /* Color of the underline */
+  text-decoration-thickness: 4px; /* Thickness of the underline */
+  transition: text-decoration 1s ease; /* Transition effect */
 }
+
+a:hover{
+  text-decoration: none;
+  /*-webkit-transition-duration: 0.4s; /* Safari */*/
+}
+
 
 .button {
   display: inline-block;
@@ -82,52 +110,30 @@ a:hover{
 }
 
 .button:hover {
-  background-color: LightGray;
+  background-color: White; /*LightGray;*/
   color:  #616262;
 }
 
 .tagAction{
-background-color: #4caf50;
+background-color: #98249C; 
+/*#98249C;*/ /*#4caf50;*/
 border-radius: 5px;
 padding : 1px 4px 1px 4px;
-color: white;
+color: white; 
 }
 
-.tagDomain{
-background-color:#ff9900 ;
-border-radius: 5px;
-padding : 1px 4px 1px 4px;
-color: white;
-}
-
-.presentation{
-text-align: center;
-font-size:160%;
-padding-right: 20%;
-padding-left: 20%;
-margin-top: 2%;
-margin-bottom: 3%;
-}
 
 .specifyResults{
   /*content: "\2192"; */
   font-family: "Montserrat", sans-serif;
-  font-size:180%;
+  font-size:1.4vw;
   padding-left:2%;
   margin-bottom:0%;
   text-decoration: none;
 
 }
 
-p{
-  font-family: "karla", sans-serif;
-  margin-top: 0px;
-  padding-left: 2%;
-  padding-right: 2%;
-  font-size: 130%;
-  line-height: 130%;
-  color : #616262 ;
-}
+
 #hr2{
   height: 1px;
   border: 0;
@@ -135,6 +141,7 @@ p{
   margin-left: 8%;
   margin-right: 8%;
 }
+
 #showData {
   font-size: 70%;
 }
@@ -145,19 +152,4 @@ p{
 .code{
   font-family: monospace;
 }
-
-.paddingLeft{
-  padding-left: 40%;
-}
-
-/*@media only screen and (max-width: 950px) {
- 
-}*/
-
-@media only screen and (max-width: 600px) {
- .paddingLeft{
-  padding-left: 0;
-  }
-}
-
 

@@ -18,7 +18,14 @@ activities
 <activities>
 
     <item>
-        <date>2025-09-10</date>
+        <date>2025 09</date>
+        <action>output</action>
+        <titre>Séminaire Stratégie nationale de science ouverte</titre>
+        <structure>Comité pour la Science Ouverte</structure>
+    </item>
+
+    <item>
+        <date>2025 09</date>
         <action>output</action>
         <titre>Journée d'échange GATES DATA SHS</titre>
         <nom>Intervention et modération</nom>
@@ -33,6 +40,7 @@ activities
         <type>conference</type>
         <nom>LIBER 2025 : Engage, collaborate, innovate: libraries working to address global challenges.</nom>
         <structure>Lausanne University, Switzerland</structure>
+        <lien url="https://doi.org/10.5281/zenodo.15911986"/>
     </item>
 
 
