@@ -124,7 +124,7 @@ color: white;
 .specifyResults{
   /*content: "\2192"; */
   font-family: "Montserrat", sans-serif;
-  font-size: clamp(1.2rem, 1.9vw, 1.7rem); /* min 16px, max ~25px */
+  font-size: clamp(1rem, 1.9vw, 1.4rem); /* min 16px, max ~25px */
   padding-left:1%;
   margin-bottom:0%;
   text-decoration: none;
@@ -138,10 +138,6 @@ color: white;
   border-top: 1px solid #D8D8D8;
   margin-left: 8%;
   margin-right: 8%;
-}
-
-#showData {
-  /*font-size: clamp(1.3rem, 1.9vw, 1.3rem); /* min 16px, max ~25px */
 }
 
 #showData a{ 
