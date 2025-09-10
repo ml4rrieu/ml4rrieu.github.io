@@ -2,14 +2,12 @@
   /*width:100%;*/
   padding-left: clamp(1rem, 13vw, 60%);  /* more padding allowed on big screens */
   padding-right: clamp(1rem, 13vw, 40%);
-
   margin-top: clamp(1rem, 3vw, 20%);
 }
 
 .presentation{
   text-align: center;
   font-size: clamp(1.3rem, 1.9vw, 1.7rem); /* min 16px, max ~25px */
-
 }
 
 p{
@@ -126,8 +124,8 @@ color: white;
 .specifyResults{
   /*content: "\2192"; */
   font-family: "Montserrat", sans-serif;
-  font-size:1.4vw;
-  padding-left:2%;
+  font-size: clamp(1.2rem, 1.9vw, 1.7rem); /* min 16px, max ~25px */
+  padding-left:1%;
   margin-bottom:0%;
   text-decoration: none;
 
@@ -144,9 +142,8 @@ color: white;
 
 #showData {
   /*font-size: clamp(1.3rem, 1.9vw, 1.3rem); /* min 16px, max ~25px */
-  font-size: clamp(1.6rem, 1.9vw, 1.7rem); /* min 16px, max ~25px */
-
 }
+
 #showData a{ 
   font-size: 68%;
   text-decoration-thickness: 2px; /* Thickness of the underline */
