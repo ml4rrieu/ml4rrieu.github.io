@@ -143,10 +143,11 @@ color: white;
 }
 
 #showData {
-  font-size: 70%;
+  font-size: clamp(1rem, 1.9vw, 1.3rem); /* min 16px, max ~25px */
 }
 #showData a{ 
   font-size: 68%;
+  text-decoration-thickness: 2px; /* Thickness of the underline */
 }
 
 .code{
