@@ -19,8 +19,9 @@ p{
 
 
 p.networks{
-  padding-left: 40%;
-  padding-top:1%;
+  text-align: center;
+  /*padding-left: 40%;*/
+  padding-top:2%;
   line-height: 100%;
 }
 
@@ -31,7 +32,7 @@ hr{
 }
 
 strong{
-  font-weight: bolder;
+  font-weight: 900;
   /*line-height: 1.6;*/
   background: linear-gradient(90deg,rgba(152, 36, 156, 1) 4%, rgba(71, 90, 196, 1) 100%);
   background-clip: text;

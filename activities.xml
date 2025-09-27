@@ -18,6 +18,53 @@ activities
 <activities>
 
     <item>
+        <date>2025 10</date>
+        <action>input</action>
+        <type>formation</type>
+        <nom>Manager une équipe, Développer la motivation de ses collaborateurs</nom>
+        <structure>CNRS, VALEA-RH</structure>
+    </item>
+
+    <item>
+        <date>2025 10</date>
+        <action>input</action>
+        <titre>Mathdoc</titre>
+        <type>conference</type>
+        <nom>30 années au service de la communauté mathématique.</nom>
+        <structure>UGA</structure>
+        <lien url="https://indico.math.cnrs.fr/event/14572/"/>
+    </item>
+
+    <item>
+        <date>2025 10</date>
+        <action>output</action>
+        <titre>Journée d'étude GATES DATA SHS</titre>
+        <nom>Intervention et modération</nom>
+        <structure>GRICAD, Université Grenoble Alpes</structure>
+    </item>
+
+
+    <item>
+        <date>2025 09</date>
+        <action>input</action>
+        <titre>Open Source Programm Office</titre>
+        <type>conference</type>
+        <nom>Inauguration of the Open Source Programme Office of UGA</nom>
+        <structure>Université Grenoble Alpes</structure>
+        <lien url="https://ospo-uga.sciencesconf.org"/>
+    </item>
+
+    <item>
+        <date>2025 09</date>
+        <action>output</action>
+        <titre>Transparency to sustain open science infrastructure</titre>
+        <type>conference</type>
+        <nom>Open Science FAIR : Fusing Forces – Accelerating Open Science through Collaboration.</nom>
+        <structure>CERN, Switzerland</structure>
+    </item>
+
+
+    <item>
         <date>2025 09</date>
         <action>output</action>
         <titre>Séminaire Stratégie nationale de science ouverte</titre>
@@ -27,11 +74,21 @@ activities
     <item>
         <date>2025 09</date>
         <action>output</action>
-        <titre>Journée d'échange GATES DATA SHS</titre>
-        <nom>Intervention et modération</nom>
-        <structure>GRICAD, Université Grenoble Alpes</structure>
+        <titre>How a New Data Platform Sheds Light on Open Science Funding</titre>
+        <nom>Katina</nom>
+        <structure>Annual Reviews</structure>
+        <lien url="https://doi.org/10.1146/katina-091125-1/"></lien>
     </item>
 
+
+    <item>
+        <date>2025 08</date>
+        <action>output</action>
+        <titre>OpenAlex vs. Web of Science : qui sert le mieux l’UGA ?</titre>
+        <type>blogpost</type>
+        <structure>Université Grenoble Alpes</structure>
+        <lien url="https://hal.science/hal-5265779"></lien>
+    </item>
 
     <item>
         <date>2025 07</date>
