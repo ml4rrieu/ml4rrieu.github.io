@@ -18,6 +18,45 @@ activities
 <activities>
 
     <item>
+        <date>2025 11</date>
+        <action>output</action>
+        <titre>Retour d'expérience sur la mise en place d'un pool d'ingénieurs dédié aux données de recherche en SHS</titre>
+        <type>conference</type>
+        <nom>Valoriser les données de recherche en humanités numériques, enjeux, pratiques, perspectives</nom>
+        <structure>CNRS, Université de Lille </structure>
+        <lien url="https://dhnord2025.sciencesconf.org/"></lien>
+    </item>
+
+    <item>
+        <date>2025 11</date>
+        <action>output</action>
+        <titre>Open Science at the GRICAD research unit</titre>
+        <type>conference</type>
+        <nom>GRICAD User Days</nom>
+        <structure>Université Grenoble Alpes, CNRS, INRIA</structure>
+        <lien url="https://jug-2025.sciencesconf.org/"></lien>
+    </item>
+
+
+    <item>
+        <date>2025 11</date>
+        <action>input</action>
+        <titre>EOSC Symposium 2025</titre>
+        <type>conference</type>
+        <structure>EOSC, Bruxelles, Belgium</structure>
+        <lien url="https://eosc.eu/eosc-symposium-2025/"/>
+    </item>
+
+
+    <item>
+        <date>2025 10</date>
+        <action>output</action>
+        <titre>TSOSI: how open data can contribute to the sustainability of open infrastructures</titre>
+        <type>Working group seminar</type>
+        <structure>Barcelona Declaration on Open Research Information</structure>
+    </item>
+
+    <item>
         <date>2025 10</date>
         <action>input</action>
         <type>formation</type>
@@ -27,12 +66,12 @@ activities
 
     <item>
         <date>2025 10</date>
-        <action>input</action>
-        <titre>Mathdoc</titre>
+        <action>output</action>
+        <titre>TSOSI: Transparency to sustain open science infrastructure</titre>
         <type>conference</type>
-        <nom>30 années au service de la communauté mathématique.</nom>
-        <structure>UGA</structure>
-        <lien url="https://indico.math.cnrs.fr/event/14572/"/>
+        <nom>30 years of service to the mathematical community</nom>
+        <structure>CNRS, UGA</structure>
+        <lien url="https://indico.math.cnrs.fr/event/14572/timetable/"/>
     </item>
 
     <item>
@@ -41,6 +80,7 @@ activities
         <titre>Journée d'étude GATES DATA SHS</titre>
         <nom>Intervention et modération</nom>
         <structure>GRICAD, Université Grenoble Alpes</structure>
+        <lien url="https://gates-data-shs.gricad-pages.univ-grenoble-alpes.fr/blog/"/>
     </item>
 
 
@@ -67,7 +107,7 @@ activities
     <item>
         <date>2025 09</date>
         <action>output</action>
-        <titre>Séminaire Stratégie nationale de science ouverte</titre>
+        <titre>National Open Science Strategy Seminar</titre>
         <structure>Comité pour la Science Ouverte</structure>
     </item>
 
@@ -87,7 +127,7 @@ activities
         <titre>OpenAlex vs. Web of Science : qui sert le mieux l’UGA ?</titre>
         <type>blogpost</type>
         <structure>Université Grenoble Alpes</structure>
-        <lien url="https://hal.science/hal-5265779"></lien>
+        <lien url="https://hal.science/hal-05265779v1"></lien>
     </item>
 
     <item>
