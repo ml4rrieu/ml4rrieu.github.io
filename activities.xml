@@ -17,6 +17,26 @@ activities
 
 <activities>
 
+
+    <item>
+        <date>2025 11</date>
+        <action>output</action>
+        <titre>TSOSI: Making Funding for Open Science Infrastructure the Norm</titre>
+        <nom>ZBW MediaTalk</nom>
+        <structure>ZBW – Leibniz Information Centre for Economics</structure>
+        <lien url="https://www.zbw-mediatalk.eu/2025/11/tsosi-making-funding-for-open-science-infrastructure-the-norm/"></lien>
+    </item>
+
+
+    <item>
+        <date>2025 11</date>
+        <action>output</action>
+        <titre>Open Science Days UGA</titre>
+        <nom>Organisation et modération</nom>
+        <structure>Université Grenoble Alpes</structure>
+        <lien url="https://osd-uga-2025.sciencesconf.org/"></lien>
+    </item>
+
     <item>
         <date>2025 11</date>
         <action>output</action>
@@ -117,7 +137,7 @@ activities
         <titre>How a New Data Platform Sheds Light on Open Science Funding</titre>
         <nom>Katina</nom>
         <structure>Annual Reviews</structure>
-        <lien url="https://doi.org/10.1146/katina-091125-1/"></lien>
+        <lien url="https://doi.org/10.1146/katina-091125-1"></lien>
     </item>
 
 
