@@ -17,6 +17,35 @@ activities
 
 <activities>
 
+    <item>
+        <date>2026 03</date>
+        <action>output</action>
+        <titre>TSOSI Transparency to sustain open science infrastructure</titre>
+        <type>conference</type>
+        <nom>openCost: Navigating Cost Transparency</nom>
+        <structure>DESY</structure>
+        <lien url="https://indico.desy.de/event/50077/overview"></lien>
+    </item>
+
+
+    <item>
+        <date>2026 03</date>
+        <action>input</action>
+        <type>formation</type>
+        <nom>RGPD et Cybersécurité : les fondamentaux</nom>
+        <structure>Université Grenoble Alpes</structure>
+    </item>
+
+    <item>
+        <date>2026 02</date>
+        <action>output</action>
+        <titre>L'open Source à l'UGA. Exemples de logiciel de recherche</titre>
+        <type>conference</type>
+        <nom>Alpes Open Source Software</nom>
+        <structure>OW2, Linphone, Echirolles</structure>
+        <lien url = "https://alposs.fr/"> </lien>
+    </item>
+
 
     <item>
         <date>2025 11</date>
