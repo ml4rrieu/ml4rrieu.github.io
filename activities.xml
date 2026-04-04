@@ -17,6 +17,17 @@ activities
 
 <activities>
 
+
+    <item>
+        <date>2026 03</date>
+        <action>output</action>
+        <titre>Retours sur la mise en place d’un pool d’ingénieur·es des données en SHS</titre>
+        <type>conference</type>
+        <structure>Recherche Data Gouv</structure>
+        <lien url="https://rdg-seminaire6.sciencesconf.org/"></lien>
+    </item>
+
+
     <item>
         <date>2026 03</date>
         <action>output</action>
