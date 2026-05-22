@@ -17,6 +17,15 @@ activities
 
 <activities>
 
+    <item>
+        <date>2026 05</date>
+        <action>input</action>
+        <type>formation</type>
+        <nom>Créer, modifier, utiliser des logiciels dans la recherche : enjeux juridiques</nom>
+        <structure>URFIST Rennes</structure>
+        <personnes>Thibaud GUILLEBON</personnes>
+    </item>
+
 
     <item>
         <date>2026 03</date>
