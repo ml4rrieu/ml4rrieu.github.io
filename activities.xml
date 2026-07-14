@@ -18,6 +18,16 @@ activities
 <activities>
 
     <item>
+        <date>2026 07</date>
+        <action>output</action>
+        <titre>TSOSI : Rendre visible le financement des infrastructures ouvertes</titre>
+        <type>conference</type>
+        <structure>Couperin</structure>
+        <lien url="https://doi.org/10.5281/zenodo.21222243"></lien>
+    </item>
+
+
+    <item>
         <date>2026 05</date>
         <action>input</action>
         <type>formation</type>
