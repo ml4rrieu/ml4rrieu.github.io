@@ -260,7 +260,7 @@ a:hover {
 
 #site-footer {
   margin-top: 3.5rem;
-  padding: 2rem 1rem 1.5rem;
+  padding: 1.8rem 1rem 1.5rem;
   text-align: center;
   border-top: 1px solid #eee;
 }
@@ -276,7 +276,7 @@ a:hover {
 }
 
 #site-footer .credits {
-  font-size: 0.8rem;
+  font-size: 1rem;
   color: #999;
   margin: 0;
 }
