@@ -5,13 +5,14 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 <xsl:strip-space elements="*" />
 
   <xsl:template match="/">
-    <p class="specifyResults">&#8594; <span class="tagAction">outputs</span> is selected
-
+    <p class="specifyResults"> 
+  
     <xsl:for-each select="activities/item">
 
       <xsl:if test="action= 'output' ">
         <br /><br />
-        <b><xsl:value-of select="date" /> </b> <br />
+        <b><xsl:value-of select="date" /> </b> <span class="activityType">output</span><br />
+
         <!--><span class="tag"><xsl:value-of select="action"/></span> &#160; -->
         <!-- <span class="tagDomain"><xsl:value-of select="domain"/></span> -->
 

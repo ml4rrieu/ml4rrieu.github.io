@@ -3,20 +3,21 @@
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 
   <xsl:template match="/">
-    <p class="specifyResults">&#8594; all activities
-
-  <xsl:apply-templates  select="activities/item">
-    </xsl:apply-templates >
+   <p class="specifyResults">
+      <xsl:apply-templates  select="activities/item">
+      </xsl:apply-templates >
     </p>
   </xsl:template>
 
 
   <xsl:template match="date">
     <br /><br /> <!-- on commence par sauter une ligne -->
-    <b style="color:#616262;"><xsl:value-of select="."/></b> &#160;
+    <b style="color:#616262;"><xsl:value-of select="."/></b>
   </xsl:template>
-   <xsl:template match="action">
-    <span class="tagAction"><xsl:value-of select="."/></span> <br /> <!-- saut de ligne après date et action -->
+   
+  <xsl:template match="action">
+    <span class="activityType"><xsl:value-of select="."/></span> <br />
+    <!-- saut de ligne après date et action -->
   </xsl:template>
   <!-- 
   <xsl:template match="domain">

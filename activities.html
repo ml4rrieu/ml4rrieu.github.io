@@ -56,8 +56,8 @@ function displayResult(xslFileName){
 </head>
 <body onload="displayResult('allActivities.xsl')">
 
-<!--   <h1>Maxence Larrieu</h1> -->
-  <hr /> 
+<!--   <h1>Maxence Larrieu</h1> <hr /> -->
+  
   <div id="menu">
     <a href="index.html">About</a>
     <a class="active" href="activities.html">Activities</a>
@@ -66,8 +66,10 @@ function displayResult(xslFileName){
 
    <div id="corps">
      <p class="presentation">
-       It can be either  <button class="tagAction button" onclick="displayResult('output.xsl')">outputs</button> like a conference presentation or <button class="tagAction button" onclick="displayResult('input.xsl')">inputs</button> like a training.<!--  Furthermore it can cover two areas
-       <button class="tagDomain button" onclick="displayResult('musicology.xsl')">musicology</button> and <button class="tagDomain button"  onclick="displayResult('scholarlyCom.xsl')">scholarly communication</button>. -->
+      By default, all my activities are displayed below. You can select either <button class="button" onclick="displayResult('output.xsl')">outputs</button>, like a conference presentation, or <button class="button" onclick="displayResult('input.xsl')">inputs</button>, like a training. 
+      
+       <!-- By default, all my activites is displayed below. You can select either , like a conference presentation, or  like a training. -->
+       
       </p>
 
       <div id="showData"> </div>
