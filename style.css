@@ -50,6 +50,13 @@ p {
   line-height: 1.35;
 }
 
+
+.contact {
+  text-align: center;
+  margin: 0.5rem auto;
+}
+
+
 strong {
   font-weight: 900;
   background: linear-gradient(
@@ -68,7 +75,9 @@ b {
 }
 
 .code {
+  font-size: 1rem;
   font-family: monospace;
+  background: #eeeeee;
 }
 
 /* =========================================================
@@ -90,8 +99,7 @@ a {
 
 a:hover {
   color: #303030;
-  /*text-decoration-color: #303030;*/
-    text-decoration-thickness: 4px;
+  text-decoration-thickness: 4px;
 }
 
 /* =========================================================
@@ -162,24 +170,25 @@ a:hover {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  height: 2.2rem; /* hauteur de référence commune */
+  height: 2.2rem;
 }
 
 .networks img {
   max-height: 2.2rem;
-  max-width: 3rem; /* évite qu'un logo horizontal (HAL) ne s'étire trop en largeur */
+  max-width: 3rem;
   width: auto;
   height: auto;
   object-fit: contain;
 }
 
 .networks a:hover img {
-  transform: scale(1.15);
-  transition: transform 0.15s ease;
+  transform: scale(1.20);
+  transition: transform 0.30s ease;
 }
 
 .networks img.logo-hal {
-  max-height: 3.8rem; /* ajuste ce chiffre à ton goût */
+  max-height: 2.3rem; 
+  max-width: none;
 }
 
 
@@ -234,17 +243,10 @@ a:hover {
 
 .specifyResults {
   font-family: "Montserrat", sans-serif;
-  font-size: clamp(1rem, 1.5vw, 1.4rem);
+  font-size: clamp(1rem, 1.4vw, 1.4rem);
   padding-left: 0.5rem;
   margin-bottom: 0;
   text-decoration: none;
-}
-
-#hr2 {
-  height: 1px;
-  border: 0;
-  border-top: 1px solid #d8d8d8;
-  margin: 2rem 8%;
 }
 
 #showData a {
@@ -256,16 +258,28 @@ a:hover {
    FOOTER
    ========================================================= */
 
-footer {
-  max-width: 900px;
-  margin: 3rem auto 0;
-  padding: 2rem 1rem;
-
+#site-footer {
+  margin-top: 3.5rem;
+  padding: 2rem 1rem 1.5rem;
   text-align: center;
-  font-family: "Karla", sans-serif;
-  color: #616262;
+  border-top: 1px solid #eee;
 }
 
+#site-footer .contact {
+  font-family: "Montserrat", sans-serif;
+  margin: 0 0 1rem 0;
+  font-size: 1.3rem;
+}
+
+#site-footer .networks {
+  margin: 0 0 1.5rem 0;
+}
+
+#site-footer .credits {
+  font-size: 0.8rem;
+  color: #999;
+  margin: 0;
+}
 /* =========================================================
    TABLETS
    ========================================================= */
