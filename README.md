@@ -1,12 +1,14 @@
-# My personal website vanilla style ;)
+# My personal website with a vanilla style ;)
 
 --> [maxence.larri.eu](https://maxence.larri.eu)
 
 
-< br />
-< br />
+<br />
+<br />
 
 ### memo
+
+run website in local
 
 ```
 cd "path_to_my_Github/ml4rrieu.github.io"
