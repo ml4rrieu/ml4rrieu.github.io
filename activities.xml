@@ -18,6 +18,15 @@ activities
 <activities>
 
     <item>
+        <date>2026 09</date>
+        <action>output</action>
+        <titre>La politique de science ouverte de la Chine</titre>
+        <type>Rapport</type>
+        <structure>Comité pour la science ouverte</structure>
+        <lien url="https://hal.science/hal-05737117"></lien>
+    </item>
+
+    <item>
         <date>2026 07</date>
         <action>output</action>
         <titre>TSOSI : Rendre visible le financement des infrastructures ouvertes</titre>
