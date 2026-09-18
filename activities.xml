@@ -20,6 +20,16 @@ activities
     <item>
         <date>2026 09</date>
         <action>output</action>
+        <titre>UGA données et méthodes en SHS</titre>
+        <nom>Organisation et modération</nom>
+        <structure>Université Grenoble Alpes</structure>
+        <lien url="https://uga-shs-2026.sciencesconf.org/"></lien>
+    </item>
+
+
+    <item>
+        <date>2026 09</date>
+        <action>output</action>
         <titre>La politique de science ouverte de la Chine</titre>
         <type>Rapport</type>
         <structure>Comité pour la science ouverte</structure>
@@ -142,6 +152,7 @@ activities
         <titre>TSOSI: how open data can contribute to the sustainability of open infrastructures</titre>
         <type>Working group seminar</type>
         <structure>Barcelona Declaration on Open Research Information</structure>
+        <lien url="https://doi.org/10.5281/zenodo.18188254" />
     </item>
 
     <item>
