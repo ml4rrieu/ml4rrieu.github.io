@@ -18,6 +18,15 @@ activities
 <activities>
 
     <item>
+        <date>2026 10</date>
+        <action>output</action>
+        <type>conference</type>
+        <titre>OpenAlex, le bruit qui monte dans la recherche</titre>
+        <structure>Université Grenoble Alpes</structure>
+        <lien url="https://doi.org/10.34847/nkl.3fa258z2"></lien>
+    </item>
+
+    <item>
         <date>2026 09</date>
         <action>output</action>
         <titre>UGA données et méthodes en SHS</titre>
